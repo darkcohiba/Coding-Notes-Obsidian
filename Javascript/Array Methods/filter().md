@@ -10,3 +10,4 @@ console.log(result);
 ```
 # Basic Tags
 - #javascript 
+- #array

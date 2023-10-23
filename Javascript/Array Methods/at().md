@@ -16,3 +16,4 @@ console.log(`Using an index of ${index} item returned is ${array1.at(index)}`);
 ```
 # Basic Tags
 - #javascript 
+- #array

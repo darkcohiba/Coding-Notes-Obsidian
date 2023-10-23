@@ -17,3 +17,4 @@ console.log(array1.fill(6));
 ```
 # Basic Tags
 - #javascript 
+- #array

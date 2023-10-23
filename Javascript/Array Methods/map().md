@@ -11,3 +11,4 @@ console.log(map1);
 ```
 # Basic Tags
 - #javascript 
+- #array

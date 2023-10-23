@@ -10,3 +10,4 @@ console.log(array1.every(isBelowThreshold));
 ```
 # Basic Tags
 - #javascript 
+- #array
