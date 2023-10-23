@@ -38,3 +38,5 @@ flask db upgrade head
 flask run 
 ```
 
+# Basic Tags
+- #shell

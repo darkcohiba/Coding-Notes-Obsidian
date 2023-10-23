@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03c47b457e38c79a",
+        "id": "d0b155ab093a4108",
         "type": "tabs",
         "children": [
           {
-            "id": "84c97c150960fa36",
+            "id": "a373a844091de4a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Summary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,20 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "a373a844091de4a5",
   "lastOpenFiles": [
+    "React/Summary.md",
+    "React/Hooks/useEffect Hook.md",
+    "Flask/Alembic Commands.md",
+    "Flask/Flask_Sqlalchemy Commands.md",
+    "Flask/Summary.md",
+    "Javascript/Summary.md",
     "Javascript/String Methods",
     "Javascript/Untitled.md",
-    "Javascript/Summary.md",
-    "Flask/Alembic Commands.md",
     "Javascript/Array Methods",
     "Javascript",
-    "Flask/Summary.md",
-    "React/Hooks/useEffect Hook.md",
-    "React/Summary.md",
     "React/Hooks/useRef Hook.md",
     "React/Hooks/useState Hook.md",
-    "Flask/Flask_Sqlalchemy Commands.md",
     "React/Hooks",
     "React",
     "Flask"

@@ -26,6 +26,5 @@ alembic revision –autogenerate -m ‘message’
 alembic upgrade head
 ```
 
-
-
-
+# Basic Tags
+- #shell
