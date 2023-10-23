@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/PyPi/Favorite Packages.md",
+                "file": "Flask/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d44cfb580d11b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Tools/State Management/Zustand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/PyPi/Favorite Packages.md",
+                "file": "React/Tools/State Management/Zustand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/PyPi/Favorite Packages.md",
+                "file": "React/Tools/State Management/Zustand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/PyPi/Favorite Packages.md"
+                "file": "React/Tools/State Management/Zustand.md"
               }
             }
           }
@@ -159,14 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eed96e669e6fda3",
+  "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
-    "Javascript/NPM/Favorite Packages.md",
     "API/Free APIs.md",
-    "Flask/Summary.md",
-    "Python/PyPi/Favorite Packages.md",
-    "Flask/Alembic Commands.md",
+    "React/Tools/State Management/Zustand.md",
+    "React/Tools/State Management",
+    "React/Tools",
     "API/Paid APIs.md",
+    "Flask/Summary.md",
+    "Flask/Alembic Commands.md",
+    "Flask/Flask_Sqlalchemy Commands.md",
+    "Python/PyPi/Favorite Packages.md",
+    "Javascript/NPM/Favorite Packages.md",
     "React/Hooks/useEffect Hook.md",
     "API",
     "React/Summary.md",
@@ -182,12 +198,9 @@
     "Python/String Methods",
     "Python/Array Methods",
     "Python",
-    "Flask/Flask_Sqlalchemy Commands.md",
     "Javascript/String Methods",
     "Javascript/Untitled.md",
     "Javascript/Array Methods",
-    "Javascript",
-    "React/Hooks/useRef Hook.md",
-    "React/Hooks"
+    "React/Hooks/useRef Hook.md"
   ]
 }

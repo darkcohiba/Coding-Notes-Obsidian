@@ -27,4 +27,4 @@ alembic upgrade head
 ```
 
 # Basic Tags
-- #shell
+- #CLI 
