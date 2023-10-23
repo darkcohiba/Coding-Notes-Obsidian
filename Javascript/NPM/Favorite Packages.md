@@ -4,7 +4,7 @@
 | Date Fns | Dates | [FNS](https://www.npmjs.com/package/date-fns)|---|
 |SASS | CSS | [SASS](https://www.npmjs.com/package/sass?activeTab=readme#usage) |---|
 |React Simple Typewriter | Effects | [RST](https://www.npmjs.com/package/react-simple-typewriter) |---|
-|Axios | Fetching | [Axios](https://www.npmjs.com/package/axios) |---|
+|Axios | Fetching | [Axios](https://www.npmjs.com/package/axios) | #datafetching |
 |Validator | Data Validator | [Validator](https://www.npmjs.com/package/validator) |---|
 |Lodash | Utility Library | [Lodash](https://www.npmjs.com/package/lodash) |---|
 |UnderScore | Utility Library | [US](https://www.npmjs.com/package/underscore) |---|
@@ -28,6 +28,7 @@
 |React Select|Select Tool|[RS](https://www.npmjs.com/package/react-select)|---|
 |col|col|[]()|---|
 |col|col|[]()|---|
+
 
 
 # Basic Tags
