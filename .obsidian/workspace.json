@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Array Methods/map().md",
+                "file": "Javascript/Array Methods/map().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Array Methods/map().md",
+                "file": "Javascript/Array Methods/map().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Array Methods/map().md",
+                "file": "Javascript/Array Methods/map().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Array Methods/map().md"
+                "file": "Javascript/Array Methods/map().md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f38131f85ae6188",
+  "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
     "Python/PyPi/Favorite Packages.md",
-    "Python/Array Methods/map().md",
+    "Javascript/Array Methods/map().md",
     "API/Paid APIs.md",
     "API/Free APIs.md",
     "2023-10-22.md",
