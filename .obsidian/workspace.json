@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e729ff321fbd6e9a",
+        "id": "7cc6cb36d99f4d11",
         "type": "tabs",
         "children": [
           {
-            "id": "048e9c351a73723e",
+            "id": "24a035df43275bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,13 +128,21 @@
                 "file": "Code Summary.md"
               }
             }
+          },
+          {
+            "id": "382ecbc3a110d9e4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "048e9c351a73723e",
+  "active": "24a035df43275bc2",
   "lastOpenFiles": [
+    "Markdown Overview.md",
+    "Code Summary.md",
+    "misc/HTTP Status Codes.md",
+    "Python/Python Summary.md",
+    "misc",
     "React/Tools/State Management/Zustand.md",
     "React/Tools/Favorite Tools.md",
     "React/React Summary.md",
@@ -172,20 +185,15 @@
     "API/Paid APIs.md",
     "API/Free APIs.md",
     "2023-10-22.md",
-    "Flask/Flask Summary.md",
     "React/Tools/State Management",
     "React/Tools",
-    "Flask/Alembic Commands.md",
-    "Flask/Flask_Sqlalchemy Commands.md",
     "API",
-    "Code Summary.md",
     "Python/PyPi",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Javascript/NPM",
     "Python/String Methods",
     "Python/Array Methods",
-    "Python",
-    "Javascript/String Methods"
+    "Python"
   ]
 }
