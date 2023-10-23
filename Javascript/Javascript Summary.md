@@ -8,7 +8,9 @@
 - Array.fill(): [[fill()]]
 - Array.filter(): [[filter()]]
 - Array.map(): [[map()]]
-- Array.
+- Array.findIndex(): [[findIndex()]]
+- Array.findLast(): [[findLast()]]
+- Array.findLastIndex(): [[findLastIndex()]]
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 
 	- See my favorite packages here [[Javascript/NPM/Favorite Packages|Favorite Packages]]
