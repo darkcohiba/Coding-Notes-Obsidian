@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Array Methods/map().md",
+                "file": "Javascript/Array Methods/every().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Array Methods/map().md",
+                "file": "Javascript/Array Methods/every().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Array Methods/map().md",
+                "file": "Javascript/Array Methods/every().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Array Methods/map().md"
+                "file": "Javascript/Array Methods/every().md"
               }
             }
           }
@@ -147,10 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "8f38131f85ae6188",
   "lastOpenFiles": [
-    "Python/PyPi/Favorite Packages.md",
+    "Javascript/Array Methods/at().md",
+    "Javascript/Array Methods/every().md",
     "Javascript/Array Methods/map().md",
+    "Javascript/Array Methods/concat().md",
+    "React/Hooks/useEffect Hook.md",
+    "React/Hooks/useRef Hook.md",
+    "React/Hooks/useState Hook.md",
+    "Templates/React Hook Template.md",
+    "Templates/Method Template.md",
+    "javascript.md",
+    "Javascript/Array Methods/Untitled.md",
+    "Templates",
+    "Python/PyPi/Favorite Packages.md",
     "API/Paid APIs.md",
     "API/Free APIs.md",
     "2023-10-22.md",
@@ -162,7 +173,6 @@
     "Flask/Alembic Commands.md",
     "Flask/Flask_Sqlalchemy Commands.md",
     "Javascript/NPM/Favorite Packages.md",
-    "React/Hooks/useEffect Hook.md",
     "API",
     "React/Summary.md",
     "Summary.md",
@@ -170,16 +180,12 @@
     "Python/Summary.md",
     "Python/PyPi",
     "Javascript/NPM/Summary.md",
-    "React/Hooks/useState Hook.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Javascript/NPM",
     "Python/String Methods",
     "Python/Array Methods",
     "Python",
-    "Javascript/String Methods",
-    "Javascript/Untitled.md",
-    "Javascript/Array Methods",
-    "React/Hooks/useRef Hook.md"
+    "Javascript/String Methods"
   ]
 }
