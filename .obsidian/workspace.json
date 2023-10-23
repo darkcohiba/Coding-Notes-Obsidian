@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8de86a3fc7883b",
+        "id": "3883aa986f697a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "ac96917dbb755474",
+            "id": "b2d434310ebdd2d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Hooks/useEffect Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Hooks/useEffect Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Hooks/useEffect Hook.md"
+              }
             }
           }
         ]
@@ -138,22 +142,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac96917dbb755474",
+  "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
-    "Javascript/NPM/Favorite Packages.md",
+    "React/Summary.md",
+    "Summary.md",
     "Javascript/Summary.md",
+    "Python/Summary.md",
+    "Javascript/NPM/Favorite Packages.md",
     "Python/PyPi",
     "Javascript/NPM/Summary.md",
     "React/Hooks/useState Hook.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Flask/Summary.md",
-    "Python/Summary.md",
     "Javascript/NPM",
     "Python/String Methods",
     "Python/Array Methods",
     "Python",
-    "React/Summary.md",
     "React/Hooks/useEffect Hook.md",
     "Flask/Alembic Commands.md",
     "Flask/Flask_Sqlalchemy Commands.md",
