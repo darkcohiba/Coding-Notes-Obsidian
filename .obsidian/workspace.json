@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b155ab093a4108",
+        "id": "8a73796c3e9b95bf",
         "type": "tabs",
         "children": [
           {
-            "id": "a373a844091de4a5",
+            "id": "28194593f56c2cc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,20 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a373a844091de4a5",
+  "active": "28194593f56c2cc9",
   "lastOpenFiles": [
+    "NPM/Summary.md",
+    "React/Hooks/useState Hook.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Flask/Summary.md",
+    "Python/Summary.md",
+    "NPM",
+    "Javascript/Summary.md",
+    "Python/String Methods",
+    "Python/Array Methods",
+    "Python",
     "React/Summary.md",
     "React/Hooks/useEffect Hook.md",
     "Flask/Alembic Commands.md",
     "Flask/Flask_Sqlalchemy Commands.md",
-    "Flask/Summary.md",
-    "Javascript/Summary.md",
     "Javascript/String Methods",
     "Javascript/Untitled.md",
     "Javascript/Array Methods",
     "Javascript",
     "React/Hooks/useRef Hook.md",
-    "React/Hooks/useState Hook.md",
     "React/Hooks",
     "React",
     "Flask"
