@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript Summary.md",
+                "file": "Javascript/Array Methods/findLastIndex().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript Summary.md",
+                "file": "Javascript/Array Methods/findLastIndex().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript Summary.md"
+                "file": "Javascript/Array Methods/findLastIndex().md"
               }
             }
           },
@@ -175,12 +175,13 @@
       "cmdr:QuickAdd: Run QuickAdd": false
     }
   },
-  "active": "ef637ec1328f6c5c",
+  "active": "20376070622a6f7f",
   "lastOpenFiles": [
+    "Javascript/Array Methods/forEach().md",
+    "Javascript/Javascript Summary.md",
     "Javascript/Array Methods/findLastIndex().md",
     "Javascript/Array Methods/findLast().md",
     "Javascript/Array Methods/findIndex().md",
-    "Javascript/Javascript Summary.md",
     "Javascript/Array Methods/find().md",
     "Javascript/Array Methods/filter().md",
     "Javascript/Array Methods/fill().md",
@@ -204,7 +205,6 @@
     "React/Hooks/useEffect Hook.md",
     "React/Hooks/useRef Hook.md",
     "React/Hooks/useState Hook.md",
-    "Templates/React Hook Template.md",
     "Templates",
     "React/Tools/State Management",
     "React/Tools",

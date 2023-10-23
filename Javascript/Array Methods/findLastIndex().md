@@ -10,6 +10,7 @@ console.log(array1.findLastIndex(isLargeNumber));
 // Expected output: 3
 // Index of element with value: 130
 ```
+
 # Basic Tags
 - #javascript 
 - #array 
