@@ -1,5 +1,5 @@
 # Basics
-- The **`map()`** method of [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) instances creates a new array populated with the results of calling a provided function on every element in the calling array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- The **`map()`** method of [[Array]] instances creates a new array populated with the results of calling a provided function on every element in the calling array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 ```javascript
 const array1 = [1, 4, 9, 16];
 

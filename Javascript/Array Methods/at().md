@@ -1,5 +1,5 @@
 # Basics
-- The **`at()`** method of [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) instances takes an integer value and returns the item at that index, allowing for positive and negative integers. Negative integers count back from the last item in the array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)
+- The **`at()`** method of [[Array]] instances takes an integer value and returns the item at that index, allowing for positive and negative integers. Negative integers count back from the last item in the array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)
 ```javascript
 const array1 = [5, 12, 8, 130, 44];
 

@@ -1,5 +1,5 @@
 # Basics
-- The **`fill()`** method of [`Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) instances changes all elements within a range of indices in an array to a static value. It returns the modified array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
+- The **`fill()`** method of [[Array]] instances changes all elements within a range of indices in an array to a static value. It returns the modified array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
 ```javascript
 const array1 = [1, 2, 3, 4];
 
