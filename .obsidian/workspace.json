@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a73796c3e9b95bf",
+        "id": "fb8de86a3fc7883b",
         "type": "tabs",
         "children": [
           {
-            "id": "28194593f56c2cc9",
+            "id": "ac96917dbb755474",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,16 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28194593f56c2cc9",
+  "active": "ac96917dbb755474",
   "lastOpenFiles": [
-    "NPM/Summary.md",
+    "Javascript/NPM/Favorite Packages.md",
+    "Javascript/Summary.md",
+    "Python/PyPi",
+    "Javascript/NPM/Summary.md",
     "React/Hooks/useState Hook.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Flask/Summary.md",
     "Python/Summary.md",
-    "NPM",
-    "Javascript/Summary.md",
+    "Javascript/NPM",
     "Python/String Methods",
     "Python/Array Methods",
     "Python",
@@ -161,7 +163,6 @@
     "Javascript",
     "React/Hooks/useRef Hook.md",
     "React/Hooks",
-    "React",
-    "Flask"
+    "React"
   ]
 }
