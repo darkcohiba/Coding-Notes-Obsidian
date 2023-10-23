@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Tools/State Management/Zustand.md",
+                "file": "React/Tools/Favorite Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Tools/State Management/Zustand.md",
+                "file": "React/Tools/Favorite Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Tools/State Management/Zustand.md",
+                "file": "React/Tools/Favorite Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Tools/State Management/Zustand.md"
+                "file": "React/Tools/Favorite Tools.md"
               }
             }
           }
@@ -171,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "b2d44cfb580d11b6",
   "lastOpenFiles": [
     "API/Free APIs.md",
+    "Flask/Summary.md",
+    "React/Tools/Favorite Tools.md",
     "React/Tools/State Management/Zustand.md",
     "React/Tools/State Management",
     "React/Tools",
     "API/Paid APIs.md",
-    "Flask/Summary.md",
     "Flask/Alembic Commands.md",
     "Flask/Flask_Sqlalchemy Commands.md",
     "Python/PyPi/Favorite Packages.md",
