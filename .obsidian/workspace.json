@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Javascript/Javascript Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4116f69c766c1f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Python/Python Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Python/Python Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Summary.md"
+                "file": "Python/Python Summary.md"
               }
             }
           },
@@ -138,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,19 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24a035df43275bc2",
+  "active": "17235886644e6657",
   "lastOpenFiles": [
-    "Markdown Overview.md",
-    "Code Summary.md",
-    "misc/HTTP Status Codes.md",
+    "Javascript/Javascript Summary.md",
     "Python/Python Summary.md",
+    "Javascript/NPM/Favorite Packages.md",
+    "Code Summary.md",
+    "misc/Markdown Overview.md",
+    "misc/HTTP Status Codes.md",
     "misc",
     "React/Tools/State Management/Zustand.md",
     "React/Tools/Favorite Tools.md",
     "React/React Summary.md",
     "Javascript/Array Methods/map().md",
-    "Javascript/Javascript Summary.md",
-    "Javascript/NPM/Favorite Packages.md",
     "Javascript/Array Methods/filter().md",
     "Javascript/Array Methods/fill().md",
     "Javascript/Array Methods/every().md",
