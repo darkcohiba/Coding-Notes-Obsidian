@@ -11,6 +11,8 @@
 - Array.[[findLast()]]
 - Array.[[findLastIndex()]]
 - Array.[[forEach()]]
+- Array.[[from()]]
+- Array.[[includes()]]
 - Array.
 - Array.[[map()]]
 # Ecosystem

@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cc849c31d34279",
+        "id": "22e7da2e9bf41635",
         "type": "tabs",
         "children": [
           {
-            "id": "214ffae52e04ae1d",
+            "id": "cacaf4f5cdf481be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "indexOf().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8701d833d5cda8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077b48e1dfb06663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Javascript/Javascript Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "indexOf().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "indexOf().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "indexOf().md"
+              }
             }
           },
           {
@@ -149,37 +175,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "cacaf4f5cdf481be",
   "lastOpenFiles": [
-    "Frameworks",
-    "Languages",
-    "misc/Markdown Overview.md",
-    "misc/HTTP Status Codes.md",
-    "Data Structures/Array.md",
+    "Languages/Javascript/Array Methods/includes().md",
+    "indexOf().md",
+    "Languages/Javascript/Array Methods/from().md",
+    "Languages/Javascript/Javascript Summary.md",
     "Languages/Javascript/Array Methods/map().md",
-    "Languages/Javascript/Array Methods/forEach().md",
-    "Languages/Javascript/Array Methods/findLastIndex().md",
-    "Languages/Javascript/Array Methods/findLast().md",
-    "Languages/Javascript/Array Methods/findIndex().md",
+    "Frameworks/Flask/Flask Summary.md",
+    "Frameworks/Flask/Flask_Sqlalchemy Commands.md",
+    "Frameworks/Flask/Alembic Commands.md",
+    "Templates/Method Template.md",
+    "Templates/React Hook Template.md",
+    "Languages/Javascript/Array Methods/find().md",
     "Languages/Javascript/Array Methods/filter().md",
     "Languages/Javascript/Array Methods/fill().md",
     "Languages/Javascript/Array Methods/every().md",
     "Languages/Javascript/Array Methods/concat().md",
     "Languages/Javascript/Array Methods/at().md",
-    "Languages/Javascript/Javascript Summary.md",
+    "Frameworks",
+    "Languages",
+    "misc/Markdown Overview.md",
+    "misc/HTTP Status Codes.md",
+    "Data Structures/Array.md",
+    "Languages/Javascript/Array Methods/forEach().md",
+    "Languages/Javascript/Array Methods/findLastIndex().md",
+    "Languages/Javascript/Array Methods/findLast().md",
+    "Languages/Javascript/Array Methods/findIndex().md",
     "Frameworks/React/Tools/Favorite Tools.md",
-    "Templates/React Hook Template.md",
-    "Templates/Method Template.md",
-    "Languages/Javascript/Array Methods/find().md",
-    "Frameworks/Flask/Alembic Commands.md",
     "API/Paid APIs.md",
     "Languages/Javascript/NPM/Favorite Packages.md",
     "Data Structures",
-    "Languages/Python/Python Summary.md",
-    "Code Summary.md",
     "misc",
-    "Frameworks/React/Tools/State Management/Zustand.md",
-    "Frameworks/React/React Summary.md",
     "Templates",
     "Frameworks/React/Tools/State Management",
     "Frameworks/React/Tools",
@@ -187,7 +214,6 @@
     "Languages/Python/PyPi",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Languages/Javascript/NPM",
-    "Languages/Python/String Methods"
+    "Languages/Javascript/NPM"
   ]
 }
