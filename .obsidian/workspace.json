@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "22e7da2e9bf41635",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cacaf4f5cdf481be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "indexOf().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8701d833d5cda8f1",
         "type": "tabs",
         "children": [
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indexOf().md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indexOf().md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indexOf().md"
+                "file": "Languages/Javascript/Javascript Summary.md"
               }
             }
           },
@@ -175,36 +157,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cacaf4f5cdf481be",
+  "active": "077b48e1dfb06663",
   "lastOpenFiles": [
-    "Languages/Javascript/Array Methods/includes().md",
-    "indexOf().md",
-    "Languages/Javascript/Array Methods/from().md",
+    "Languages/Javascript/Array Methods/concat().md",
     "Languages/Javascript/Javascript Summary.md",
+    "Languages/Javascript/Array Methods/at().md",
+    "Languages/Javascript/Array Methods/every().md",
+    "Languages/Javascript/Array Methods/fill().md",
+    "Languages/Javascript/Array Methods/join().md",
+    "Languages/Javascript/Array Methods/indexOf().md",
+    "Languages/Javascript/Array Methods/includes().md",
+    "Languages/Javascript/Array Methods/from().md",
+    "Languages/Javascript/Array Methods/forEach().md",
+    "Languages/Javascript/Array Methods/findLastIndex().md",
+    "Languages/Javascript/Array Methods/findLast().md",
+    "Languages/Javascript/Array Methods/findIndex().md",
+    "Languages/Javascript/Array Methods/find().md",
+    "Languages/Javascript/Array Methods/filter().md",
     "Languages/Javascript/Array Methods/map().md",
     "Frameworks/Flask/Flask Summary.md",
     "Frameworks/Flask/Flask_Sqlalchemy Commands.md",
     "Frameworks/Flask/Alembic Commands.md",
     "Templates/Method Template.md",
     "Templates/React Hook Template.md",
-    "Languages/Javascript/Array Methods/find().md",
-    "Languages/Javascript/Array Methods/filter().md",
-    "Languages/Javascript/Array Methods/fill().md",
-    "Languages/Javascript/Array Methods/every().md",
-    "Languages/Javascript/Array Methods/concat().md",
-    "Languages/Javascript/Array Methods/at().md",
     "Frameworks",
     "Languages",
     "misc/Markdown Overview.md",
     "misc/HTTP Status Codes.md",
     "Data Structures/Array.md",
-    "Languages/Javascript/Array Methods/forEach().md",
-    "Languages/Javascript/Array Methods/findLastIndex().md",
-    "Languages/Javascript/Array Methods/findLast().md",
-    "Languages/Javascript/Array Methods/findIndex().md",
     "Frameworks/React/Tools/Favorite Tools.md",
     "API/Paid APIs.md",
-    "Languages/Javascript/NPM/Favorite Packages.md",
     "Data Structures",
     "misc",
     "Templates",

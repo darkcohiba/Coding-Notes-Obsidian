@@ -1,7 +1,7 @@
 
 # Methods
 
-## Array Methods
+## Array Methods 
 - Array.[[at()]]
 - Array.[[concat()]]
 - Array.[[every()]]
@@ -13,11 +13,19 @@
 - Array.[[forEach()]]
 - Array.[[from()]]
 - Array.[[includes()]]
+- Array.[[indexOf()]]
+- Array.[[join()]]
 - Array.
 - Array.[[map()]]
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 
 	- See my favorite packages here [[Languages/Javascript/NPM/Favorite Packages|Favorite Packages]]
+- Popular Frontend Frameworks
+	- [[React Summary]]
+	- Angular
+	- Vue.js
+- Popular Backend Frameworks
+	- Express
 
 
 # Basic Tags
