@@ -21,7 +21,9 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Insert template"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e38acc0434364e",
+        "id": "d1cc849c31d34279",
         "type": "tabs",
         "children": [
           {
-            "id": "20376070622a6f7f",
+            "id": "214ffae52e04ae1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Array Methods/findLastIndex().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "95389c515aa9a8d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef637ec1328f6c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Javascript Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Array Methods/findLastIndex().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Array Methods/findLastIndex().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Array Methods/findLastIndex().md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,46 +139,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "cmdr:QuickAdd: Run QuickAdd": false
+      "cmdr:QuickAdd: Run QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20376070622a6f7f",
+  "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
+    "misc/Markdown Overview.md",
+    "misc/HTTP Status Codes.md",
+    "Data Structures/Array.md",
+    "Javascript/Array Methods/map().md",
     "Javascript/Array Methods/forEach().md",
-    "Javascript/Javascript Summary.md",
     "Javascript/Array Methods/findLastIndex().md",
     "Javascript/Array Methods/findLast().md",
     "Javascript/Array Methods/findIndex().md",
-    "Javascript/Array Methods/find().md",
     "Javascript/Array Methods/filter().md",
     "Javascript/Array Methods/fill().md",
     "Javascript/Array Methods/every().md",
     "Javascript/Array Methods/concat().md",
     "Javascript/Array Methods/at().md",
+    "Javascript/Javascript Summary.md",
+    "React/Tools/Favorite Tools.md",
+    "Templates/React Hook Template.md",
+    "Templates/Method Template.md",
+    "Javascript/Array Methods/find().md",
     "Flask/Alembic Commands.md",
     "API/Paid APIs.md",
     "Javascript/NPM/Favorite Packages.md",
-    "Javascript/Array Methods/map().md",
-    "Data Structures/Array.md",
     "Data Structures",
     "Python/Python Summary.md",
     "Code Summary.md",
-    "misc/Markdown Overview.md",
-    "misc/HTTP Status Codes.md",
     "misc",
     "React/Tools/State Management/Zustand.md",
-    "React/Tools/Favorite Tools.md",
     "React/React Summary.md",
     "React/Hooks/useEffect Hook.md",
-    "React/Hooks/useRef Hook.md",
-    "React/Hooks/useState Hook.md",
     "Templates",
     "React/Tools/State Management",
     "React/Tools",

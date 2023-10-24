@@ -60,11 +60,7 @@ And the next line.
 
 ```
 
-  
-
 ### Lists
-
-  
 
 #### Ordered Lists
 
@@ -78,8 +74,6 @@ And the next line.
 
 ```
 
-  
-
 #### Unordered Lists
 
 ```markdown
@@ -91,9 +85,6 @@ And the next line.
 - Third item
 
 ```
-
-  
-
 ### Links
 
 ```markdown
@@ -101,8 +92,6 @@ And the next line.
 Link with text: [link-text](https://www.google.com)
 
 ```
-
-  
 
 ### Images
 
@@ -116,11 +105,7 @@ Image without alt text: ![](https://camo.githubusercontent.com/4d89cd791580bfb19
 
 ```
 
-  
-
 ### Code Blocks
-
-  
 
 #### Inline Code Block
 
@@ -129,8 +114,6 @@ Image without alt text: ![](https://camo.githubusercontent.com/4d89cd791580bfb19
 Inline `code` has `back-ticks around` it.
 
 ```
-
-  
 
 #### Blocks of Code
 
@@ -163,9 +146,7 @@ But let's throw in a <b>tag</b>.
 </pre>
 
   
-
 ### Tables
-
   
 
 There must be at least 3 dashes separating each header cell.
@@ -186,34 +167,30 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 
 ```
 
-  
 
 ### Task list
-
   
 
 To create a task list start line with square brackets with an empty space.
 
-Ex: [ <space> ] and add text for task.
+```markdown
+[ ] task
+
+```
+
+and add text for task.
 
 To check the task replace the space between the bracket with "x".
 
-  
-
 ```markdown
-
 [x] Write the post
-
 [ ] Update the website
-
 [ ] Contact the user
 
 ```
 
-  
 
-## Reference
+ Reference
 
-  
+[markdown guide](https://www.markdownguide.org/cheat-sheet)
 
-Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
