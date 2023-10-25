@@ -1,3 +1,9 @@
+---
+tags:
+  - array
+  - javascript
+type: array method
+---
 # Basics
 - The **`map()`** method of [[Array]] instances creates a new array populated with the results of calling a provided function on every element in the calling array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 ```javascript

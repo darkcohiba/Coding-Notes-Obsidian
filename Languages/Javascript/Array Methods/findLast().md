@@ -1,3 +1,10 @@
+---
+tags:
+  - array
+  - javascript
+type: array method
+---
+
 # Basics
 - The **`findLast()`** method of [[Array]] instances iterates the array in reverse order and returns the value of the first element that satisfies the provided testing function. If no elements satisfy the testing function, [`undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined) is returned. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findLast)
 ```javascript

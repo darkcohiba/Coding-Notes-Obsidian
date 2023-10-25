@@ -1,7 +1,5 @@
 ---
-tags:
-  - array
-  - javascript
+tags: []
 aliases:
 ---
 # Basics
