@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "db9af6a73e3c4168",
+        "id": "3d1a3dd56cc39560",
         "type": "tabs",
         "children": [
           {
-            "id": "01fb928d2ead30af",
+            "id": "612c24cb55cc800e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Javascript/Javascript Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Languages/Javascript/Javascript Summary.md"
+              }
             }
           },
           {
@@ -149,10 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01fb928d2ead30af",
+  "active": "612c24cb55cc800e",
   "lastOpenFiles": [
-    "link.md",
+    "Languages/Javascript/Array Methods/some().md",
+    "Languages/Javascript/Array Methods/slice().md",
+    "Languages/Javascript/Array Methods/reverse().md",
+    "Languages/Javascript/Array Methods/shift().md",
+    "Languages/Javascript/Array Methods/reduce().md",
     "Languages/Javascript/Javascript Summary.md",
+    "Languages/Javascript/Array Methods/push().md",
+    "link.md",
     "Languages/Javascript/Array Methods/pop().md",
     "Code Summary.md",
     "Languages/Javascript/Array Methods/lastIndexOf().md",
@@ -172,12 +186,6 @@
     "Languages/Javascript/Array Methods/indexOf().md",
     "Languages/Javascript/Array Methods/includes().md",
     "Languages/Javascript/Array Methods/from().md",
-    "Languages/Javascript/Array Methods/forEach().md",
-    "Languages/Javascript/Array Methods/findLastIndex().md",
-    "Languages/Javascript/Array Methods/findLast().md",
-    "Languages/Javascript/Array Methods/findIndex().md",
-    "Languages/Javascript/Array Methods/map().md",
-    "Frameworks/Flask/Flask Summary.md",
     "Frameworks",
     "Languages",
     "Data Structures",

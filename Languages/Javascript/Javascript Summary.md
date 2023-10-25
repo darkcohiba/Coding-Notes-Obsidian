@@ -18,7 +18,13 @@
 - Array.[[lastIndexOf()]]
 - Array.[[map()]]
 - Array.[[pop()]]
-- 
+- Array.[[push()]]
+- Array.[[reduce()]]
+- Array.[[reverse()]]
+- Array.[[shift()]]
+- Array.[[slice()]]
+- Array.[[some()]]
+- Array.
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 
 	- See my favorite packages here [[Languages/Javascript/NPM/Favorite Packages|Favorite Packages]]
