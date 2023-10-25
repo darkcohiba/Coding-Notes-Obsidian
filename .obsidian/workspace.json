@@ -18,15 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98fef355d93ee2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sort().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "656c4b611411160e",
+        "id": "d04dc1738d4c06ec",
         "type": "tabs",
         "children": [
           {
-            "id": "98fef355d93ee2e4",
+            "id": "610a03a2226f5ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Method Template.md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Method Template.md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Method Template.md"
+                "file": "Languages/Javascript/Javascript Summary.md"
               }
             }
           },
@@ -175,12 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f577f1202f632d4d",
+  "active": "610a03a2226f5ebc",
   "lastOpenFiles": [
+    "Languages/Javascript/Array Methods/slice().md",
+    "Languages/Javascript/Javascript Summary.md",
+    "sort().md",
+    "Languages/Javascript/Array Methods/some().md",
+    "Templates/Method Template.md",
     "Languages/Javascript/Array Methods/at().md",
     "Languages/Javascript/Array Methods/concat().md",
-    "Languages/Javascript/Array Methods/some().md",
-    "Languages/Javascript/Array Methods/slice().md",
     "Languages/Javascript/Array Methods/shift().md",
     "Languages/Javascript/Array Methods/reverse().md",
     "Languages/Javascript/Array Methods/reduce().md",
@@ -200,9 +216,6 @@
     "Languages/Javascript/Array Methods/find().md",
     "Languages/Javascript/Array Methods/filter().md",
     "Languages/Javascript/Array Methods/fill().md",
-    "Languages/Javascript/Array Methods/every().md",
-    "Languages/Javascript/Javascript Summary.md",
-    "Templates/Method Template.md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

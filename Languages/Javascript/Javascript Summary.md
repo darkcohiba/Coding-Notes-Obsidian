@@ -1,3 +1,4 @@
+
 # Methods
 
 ## Array Methods
@@ -17,6 +18,6 @@ WHERE type = "array method"
 - Popular Backend Frameworks
 	- Express
 
-
 # Basic Tags
 - #javascript
+
