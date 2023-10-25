@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1a3dd56cc39560",
+        "id": "441f66041e0245be",
         "type": "tabs",
         "children": [
           {
-            "id": "612c24cb55cc800e",
+            "id": "f577f1202f632d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Javascript/Array Methods/findIndex().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "656c4b611411160e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98fef355d93ee2e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Languages/Javascript/Array Methods/findIndex().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Languages/Javascript/Array Methods/findIndex().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md"
+                "file": "Languages/Javascript/Array Methods/findIndex().md"
               }
             }
           },
@@ -157,35 +175,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "612c24cb55cc800e",
+  "active": "f577f1202f632d4d",
   "lastOpenFiles": [
+    "Languages/Javascript/Array Methods/find().md",
+    "Languages/Javascript/Array Methods/filter().md",
+    "Languages/Javascript/Array Methods/fill().md",
+    "Languages/Javascript/Array Methods/every().md",
+    "Languages/Javascript/Array Methods/concat().md",
+    "Languages/Javascript/Javascript Summary.md",
+    "Languages/Javascript/Array Methods/at().md",
+    "Templates/Method Template.md",
     "Languages/Javascript/Array Methods/some().md",
     "Languages/Javascript/Array Methods/slice().md",
     "Languages/Javascript/Array Methods/reverse().md",
     "Languages/Javascript/Array Methods/shift().md",
     "Languages/Javascript/Array Methods/reduce().md",
-    "Languages/Javascript/Javascript Summary.md",
     "Languages/Javascript/Array Methods/push().md",
     "link.md",
     "Languages/Javascript/Array Methods/pop().md",
     "Code Summary.md",
     "Languages/Javascript/Array Methods/lastIndexOf().md",
     "Languages/Javascript/Array Methods/keys().md",
-    "Languages/Javascript/Array Methods/every().md",
     "Frameworks/React/Tools/State Management/Zustand.md",
     "Frameworks/React/Tools/Favorite Tools.md",
     "Untitled.canvas",
-    "Languages/Javascript/Array Methods/filter().md",
-    "Languages/Javascript/Array Methods/at().md",
     "Languages/Python/Python Summary.md",
     "Data Structures/Array.md",
-    "Languages/Javascript/Array Methods/find().md",
-    "Languages/Javascript/Array Methods/concat().md",
-    "Languages/Javascript/Array Methods/fill().md",
     "Languages/Javascript/Array Methods/join().md",
     "Languages/Javascript/Array Methods/indexOf().md",
     "Languages/Javascript/Array Methods/includes().md",
-    "Languages/Javascript/Array Methods/from().md",
     "Frameworks",
     "Languages",
     "Data Structures",

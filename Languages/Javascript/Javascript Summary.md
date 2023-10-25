@@ -1,30 +1,12 @@
-
 # Methods
 
-## Array Methods 
-- Array.[[at()]]
-- Array.[[concat()]]
-- Array.[[every()]]
-- Array.[[fill()]]
-- Array.[[filter()]]
-- Array.[[findIndex()]]
-- Array.[[findLast()]]
-- Array.[[findLastIndex()]]
-- Array.[[forEach()]]
-- Array.[[from()]]
-- Array.[[includes()]]
-- Array.[[indexOf()]]
-- Array.[[join()]]
-- Array.[[lastIndexOf()]]
-- Array.[[map()]]
-- Array.[[pop()]]
-- Array.[[push()]]
-- Array.[[reduce()]]
-- Array.[[reverse()]]
-- Array.[[shift()]]
-- Array.[[slice()]]
-- Array.[[some()]]
-- Array.
+## Array Methods
+```dataview
+LIST
+FROM ""
+WHERE type = "array method"
+```
+
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 
 	- See my favorite packages here [[Languages/Javascript/NPM/Favorite Packages|Favorite Packages]]

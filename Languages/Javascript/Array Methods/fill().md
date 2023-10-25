@@ -1,3 +1,10 @@
+---
+tags:
+  - javascript
+  - array
+type: array method
+---
+
 # Basics
 - The **`fill()`** method of [[Array]] instances changes all elements within a range of indices in an array to a static value. It returns the modified array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
 ```javascript

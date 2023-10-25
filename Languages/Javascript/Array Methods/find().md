@@ -1,3 +1,10 @@
+---
+tags:
+  - array
+  - javascript
+type: array method
+---
+
 # Basics
 - The **`find()`** method of [[Array]] instances returns the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, [`undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined) is returned.[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 

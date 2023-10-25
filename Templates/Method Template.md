@@ -1,3 +1,9 @@
+---
+tags:
+  - array
+  - javascript
+aliases:
+---
 # Basics
 - summary [link](link)
 ```javascript

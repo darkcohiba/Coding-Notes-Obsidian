@@ -1,3 +1,10 @@
+---
+tags:
+  - array
+  - javascript
+type: array method
+---
+
 # Basics
 - The **`filter()`** method of [[Array]] instances creates a [shallow copy](https://developer.mozilla.org/en-US/docs/Glossary/Shallow_copy) of a portion of a given array, filtered down to just the elements from the given array that pass the test implemented by the provided function. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 ```javascript

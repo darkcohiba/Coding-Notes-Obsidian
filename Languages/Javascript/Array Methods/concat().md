@@ -1,3 +1,10 @@
+---
+tags:
+  - array
+  - javascript
+type: array method
+---
+
 # Basics
 - The **`concat()`** method of [[Array]] instances is used to merge two or more arrays. This method does not change the existing arrays, but instead returns a new array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 ```javascript
