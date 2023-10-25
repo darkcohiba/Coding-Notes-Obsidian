@@ -26,7 +26,7 @@
 |Use Gesture|Gestures|[UG](https://www.npmjs.com/package/@use-gesture/react)|---|
 |React Spring|Physics|[RS](https://www.npmjs.com/package/react-spring)|---|
 |React Select|Select Tool|[RS](https://www.npmjs.com/package/react-select)|---|
-|col|col|[]()|---|
+|Monaco-editor|Code Editor|[Monaco](https://www.npmjs.com/package/@monaco-editor/react)|---|
 |col|col|[]()|---|
 
 

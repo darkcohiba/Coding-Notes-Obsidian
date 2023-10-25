@@ -1,6 +1,6 @@
 ---
-tags: []
-aliases:
+tags: 
+type:
 ---
 # Basics
 - summary [link](link)

@@ -1,8 +1,6 @@
 ---
-tags:
-  - array
-  - javascript
-type: array method
+tags: 
+type:
 ---
 # Basics
 - summary [link](link)
