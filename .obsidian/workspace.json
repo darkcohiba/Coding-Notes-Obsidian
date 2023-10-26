@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/PyPi/Beautiful Soup.md",
+                "file": "Languages/Python/PyPi/Favorite Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/PyPi/Beautiful Soup.md",
+                "file": "Languages/Python/PyPi/Favorite Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/PyPi/Beautiful Soup.md",
+                "file": "Languages/Python/PyPi/Favorite Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/PyPi/Beautiful Soup.md"
+                "file": "Languages/Python/PyPi/Favorite Packages.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "034998af0a17929e",
   "lastOpenFiles": [
-    "Languages/Javascript/Javascript Summary.md",
     "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Python/PyPi/Favorite Packages.md",
+    "Languages/Javascript/Javascript Summary.md",
     "Languages/Javascript/String Methods/at().md",
     "Data Structures/String.md",
     "Data Structures/Array.md",
@@ -184,7 +185,6 @@
     "Languages/Javascript/Array Methods/slice().md",
     "Templates/Method Template.md",
     "Languages/Javascript/Array Methods/toSorted().md",
-    "Languages/Javascript/Array Methods/toReversed().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

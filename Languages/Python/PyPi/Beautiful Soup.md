@@ -2,6 +2,7 @@
 tags:
   - python
   - datafetching
+  - pypi
 title: Beautiful Soup
 ---
 # Basics
