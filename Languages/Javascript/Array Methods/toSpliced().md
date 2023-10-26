@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: toSpliced()
 ---
 # Basics
 - The **`toSpliced()`** method of [[Array]] instances is the [copying](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#copying_methods_and_mutating_methods) version of the [[splice()]] method. It returns a new array with some elements removed and/or replaced at a given index. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSpliced)

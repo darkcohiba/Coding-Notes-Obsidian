@@ -67,3 +67,10 @@ company_url = soup.select(selector="p a")
 company_url = soup.select_one(selector="p a")  
 print(company_url)
 ```
+- To parse a website with request we need to turn it into text first
+```python
+response = requests.get("https://news.ycombinator.com/")  
+web_page = response.text  
+soup = BeautifulSoup(web_page, "html.parser")  
+print(soup.title)
+```

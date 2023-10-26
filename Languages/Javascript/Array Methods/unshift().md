@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: unshift()
 ---
 # Basics
 - The **`unshift()`** method of [[Array]] instances adds the specified elements to the beginning of an array and returns the new length of the array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)

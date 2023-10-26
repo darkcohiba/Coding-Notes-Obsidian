@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: keys()
 ---
 # Basics
 - The **`keys()`** method of [[Array]] instances returns a new _[array iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Iterator)_ object that contains the keys for each index in the array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys)

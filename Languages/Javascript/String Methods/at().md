@@ -3,7 +3,6 @@ tags:
   - string
   - javascript
 type: string method
-title: at()
 ---
 # Basics
 - The **`at()`** method of [[String]] values takes an integer value and returns a new [[String]] consisting of the single UTF-16 code unit located at the specified offset. This method allows for positive and negative integers. Negative integers count back from the last string character. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/at)

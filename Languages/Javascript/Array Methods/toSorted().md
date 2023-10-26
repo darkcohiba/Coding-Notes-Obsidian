@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: toSorted()
 ---
 # Basics
 - The **`toSorted()`** method of  [[Array]] instances is the [copying](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#copying_methods_and_mutating_methods) version of the [[sort()]] method. It returns a new array with the elements sorted in ascending order. [MDN](lhttps://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted)

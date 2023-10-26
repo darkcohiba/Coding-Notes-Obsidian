@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: findIndex()
 ---
 
 # Basics

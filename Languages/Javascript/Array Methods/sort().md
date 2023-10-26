@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: sort()
 ---
 # Basics
 - The **`sort()`** method of [[Array]] instances sorts the elements of an array _[in place](https://en.wikipedia.org/wiki/In-place_algorithm)_ and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.

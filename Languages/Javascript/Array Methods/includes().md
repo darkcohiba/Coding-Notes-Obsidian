@@ -3,7 +3,6 @@ tags:
   - array
   - javascript
 type: array method
-title: includes()
 ---
 # Basics
 - The **`includes()`** method of [[Array]] instances determines whether an array includes a certain value among its entries, returning `true` or `false` as appropriate. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)

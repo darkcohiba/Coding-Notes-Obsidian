@@ -10,7 +10,7 @@ tags:
 LIST
 FROM ""
 WHERE type = "array method"
-SORT title asc
+SORT file.name asc
 ```
 
 
@@ -20,7 +20,7 @@ SORT title asc
 LIST
 FROM ""
 WHERE type = "string method"
-SORT title asc
+SORT file.name asc
 ```
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 

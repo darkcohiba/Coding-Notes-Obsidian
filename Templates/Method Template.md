@@ -1,7 +1,6 @@
 ---
 tags: 
-type: 
-title:
+type:
 ---
 # Basics
 - summary [link](link)
