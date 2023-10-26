@@ -1,5 +1,10 @@
-# Basics
-- **Blank** is one of react's many #Hooks
+---
+tags:
+  - javascript
+  - react
+type:
+---
 
-# Basic Tags
-- tags
+# Basics
+- **Blank** is one of react's many hooks.
+

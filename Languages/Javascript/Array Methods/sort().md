@@ -22,6 +22,3 @@ console.log(array1);
 // Expected output: Array [1, 100000, 21, 30, 4]
 
 ```
-# Basic Tags
-- #array 
-- #javascript 

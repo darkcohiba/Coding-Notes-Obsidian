@@ -22,6 +22,3 @@ console.log('array1:', array1);
 // Expected output: "array1:" Array ["three", "two", "one"]
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

@@ -19,6 +19,3 @@ animals.push('chickens', 'cats', 'dogs');
 console.log(animals);
 // Expected output: Array ["pigs", "goats", "sheep", "cows", "chickens", "cats", "dogs"]
 ```
-# Basic Tags
-- #javascript 
-- #array 

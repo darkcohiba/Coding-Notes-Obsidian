@@ -15,6 +15,3 @@ array1.forEach((element) => console.log(element));
 // Expected output: "b"
 // Expected output: "c"
 ```
-# Basic Tags
-- #javascript 
-- #array 

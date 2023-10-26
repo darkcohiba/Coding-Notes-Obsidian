@@ -22,6 +22,3 @@ console.log(months);
 // Expected output: Array ["Jan", "Feb", "March", "April", "May"]
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

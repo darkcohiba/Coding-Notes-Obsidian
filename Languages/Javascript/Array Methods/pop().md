@@ -21,6 +21,3 @@ console.log(plants);
 // Expected output: Array ["broccoli", "cauliflower", "cabbage"]
 
 ```
-# Basic Tags
-- #array 
-- #javascript 

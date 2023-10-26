@@ -1,5 +1,9 @@
-# Basics
-- useRef is one of react's many #Hooks
+---
+tags:
+  - react
+  - javascript
+type: react hook
+---
 
-# Basic Tags
-- #javascript 
+# Basics
+- useRef is one of react's many hooks.

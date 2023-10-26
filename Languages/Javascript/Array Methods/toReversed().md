@@ -15,6 +15,3 @@ const reversedItems = items.toReversed();
 console.log(reversedItems); // [3, 2, 1]
 console.log(items); // [1, 2, 3]
 ```
-# Basic Tags
-- #javascript 
-- #array 

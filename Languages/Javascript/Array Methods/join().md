@@ -19,6 +19,3 @@ console.log(elements.join('-'));
 // Expected output: "Fire-Air-Water"
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

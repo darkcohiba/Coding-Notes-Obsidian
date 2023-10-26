@@ -7,5 +7,3 @@ type:
 ```javascript
 code
 ```
-# Basic Tags
-- tags

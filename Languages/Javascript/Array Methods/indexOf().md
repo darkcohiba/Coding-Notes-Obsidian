@@ -20,6 +20,3 @@ console.log(beasts.indexOf('giraffe'));
 // Expected output: -1
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

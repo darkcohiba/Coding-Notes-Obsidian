@@ -1,9 +1,15 @@
-# #Hooks 
-- **useState** Hook: [[useState Hook]]
-- **useEffect** Hook: [[useEffect Hook]]
-- **useRef** Hook: [[useRef Hook]]
+---
+tags:
+  - javascript
+  - react
+---
+# React Hooks
+```dataview
+LIST
+FROM ""
+WHERE type = "react hook"
+```
 
 # [[Favorite Tools]]
 -  [[Zustand]]
-# Basic Tags
-- #javascript
+

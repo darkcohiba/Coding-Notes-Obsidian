@@ -6,6 +6,11 @@
 - Flask [[Flask Summary|Flask Summary]]
 - React [[React Summary|React Summary]]
 
+# Global To Do
+```dataview
+TASK 
+FROM ""
+```
 ## Misc
 - [[HTTP Status Codes]]
 - [[Markdown Overview]]

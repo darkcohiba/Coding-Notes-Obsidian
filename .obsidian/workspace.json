@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "441f66041e0245be",
+        "id": "179abad036b95ace",
         "type": "tabs",
         "children": [
           {
-            "id": "f577f1202f632d4d",
+            "id": "a44fe3472ca0e341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toSorted().md",
+                "file": "Languages/Javascript/Array Methods/toSorted().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "034998af0a17929e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks/React/Hooks/useEffect Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toSorted().md",
+                "file": "Languages/Javascript/Array Methods/toSorted().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toSorted().md",
+                "file": "Languages/Javascript/Array Methods/toSorted().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toSorted().md"
+                "file": "Languages/Javascript/Array Methods/toSorted().md"
               }
             }
           },
@@ -138,12 +150,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,22 +168,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f577f1202f632d4d",
+  "active": "a44fe3472ca0e341",
   "lastOpenFiles": [
     "Languages/Javascript/Array Methods/toReversed().md",
-    "toSorted().md",
-    "Languages/Javascript/Array Methods/splice().md",
-    "Languages/Javascript/NPM/Favorite Packages.md",
-    "Languages/Javascript/Javascript Summary.md",
-    "Languages/Javascript/Array Methods/reverse().md",
-    "Templates/Method Template.md",
+    "Code Summary.md",
+    "Languages/Javascript/Array Methods/toSorted().md",
+    "Frameworks/React/React Summary.md",
     "Templates/React Hook Template.md",
-    "Languages/Javascript/Array Methods/slice().md",
+    "Frameworks/React/Hooks/useEffect Hook.md",
+    "Languages/Python/Python Summary.md",
+    "Languages/Javascript/Javascript Summary.md",
+    "Languages/Javascript/Array Methods/findLast().md",
+    "Frameworks/React/Hooks/useRef Hook.md",
+    "Frameworks/React/Hooks/useState Hook.md",
+    "Languages/Javascript/Array Methods/at().md",
+    "Templates/Method Template.md",
+    "Languages/Javascript/Array Methods/splice().md",
     "Languages/Javascript/Array Methods/sort().md",
     "Languages/Javascript/Array Methods/some().md",
-    "Languages/Javascript/Array Methods/at().md",
-    "Languages/Javascript/Array Methods/concat().md",
+    "Languages/Javascript/Array Methods/slice().md",
     "Languages/Javascript/Array Methods/shift().md",
+    "Languages/Javascript/Array Methods/reverse().md",
     "Languages/Javascript/Array Methods/reduce().md",
     "Languages/Javascript/Array Methods/push().md",
     "Languages/Javascript/Array Methods/pop().md",
@@ -180,11 +196,6 @@
     "Languages/Javascript/Array Methods/lastIndexOf().md",
     "Languages/Javascript/Array Methods/keys().md",
     "Languages/Javascript/Array Methods/join().md",
-    "Languages/Javascript/Array Methods/indexOf().md",
-    "Languages/Javascript/Array Methods/includes().md",
-    "Languages/Javascript/Array Methods/from().md",
-    "Languages/Javascript/Array Methods/forEach().md",
-    "Languages/Javascript/Array Methods/findLastIndex().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

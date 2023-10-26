@@ -18,6 +18,3 @@ for (const key of iterator) {
 // Expected output: 1
 // Expected output: 2
 ```
-# Basic Tags
-- #javascript 
-- #array 

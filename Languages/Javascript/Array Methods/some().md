@@ -16,6 +16,3 @@ console.log(array.some(even));
 // Expected output: true
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

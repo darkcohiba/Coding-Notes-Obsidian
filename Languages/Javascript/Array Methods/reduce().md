@@ -21,6 +21,3 @@ console.log(sumWithInitial);
 // Expected output: 10
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

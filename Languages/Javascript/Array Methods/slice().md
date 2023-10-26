@@ -28,6 +28,3 @@ console.log(animals.slice());
 // Expected output: Array ["ant", "bison", "camel", "duck", "elephant"]
 
 ```
-# Basic Tags
-- #javascript 
-- #array 

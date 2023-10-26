@@ -23,6 +23,3 @@ console.log(found);
 	- the _index of a value_, use [`indexOf()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf). (It's similar to [[findIndex()]], but checks each element for equality with the value instead of using a testing function.)
 	- whether a value _exists_ in an array, use [`includes()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes). Again, it checks each element for equality with the value instead of using a testing function.
 	- if any element satisfies the provided testing function, use [`some()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some).
-# Basic Tags
-- #javascript 
-- #array 

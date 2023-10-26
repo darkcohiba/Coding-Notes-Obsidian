@@ -18,6 +18,11 @@ WHERE type = "array method"
 - Popular Backend Frameworks
 	- Express
 
+# To Dos
+- [ ] Finish Array Methods 
+- [ ] Start String Methods
+- [ ] Finish String Methods
+
 # Basic Tags
 - #javascript
 

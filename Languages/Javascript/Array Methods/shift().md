@@ -18,6 +18,3 @@ console.log(firstElement);
 // Expected output: 1
 
 ```
-# Basic Tags
-- #javascript 
-- #array 
