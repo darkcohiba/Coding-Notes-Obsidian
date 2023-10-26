@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "74224c04347576c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55d698ee33602e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +159,9 @@
   },
   "active": "034998af0a17929e",
   "lastOpenFiles": [
-    "Languages/Javascript/String Methods/at().md",
     "Languages/Javascript/Javascript Summary.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Javascript/String Methods/at().md",
     "Data Structures/String.md",
     "Data Structures/Array.md",
     "Code Summary.md",
@@ -202,7 +185,6 @@
     "Templates/Method Template.md",
     "Languages/Javascript/Array Methods/toSorted().md",
     "Languages/Javascript/Array Methods/toReversed().md",
-    "Languages/Javascript/Array Methods/some().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
