@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d11c20f16c5ae60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "313c679373270799",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Javascript/String Methods/indexOf().md",
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Javascript/String Methods/indexOf().md",
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Javascript/String Methods/indexOf().md"
+                "file": "Languages/Python/PyPi/Beautiful Soup.md"
               }
             }
           },
@@ -175,10 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "8d11c20f16c5ae60",
   "lastOpenFiles": [
-    "Languages/Javascript/String Methods/includes().md",
     "Languages/Javascript/Javascript Summary.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Javascript/String Methods/indexOf().md",
+    "Languages/Javascript/String Methods/includes().md",
     "Languages/Javascript/String Methods/endsWith().md",
     "Languages/Javascript/Array Methods/values().md",
     "Languages/Javascript/Array Methods/unshift().md",
@@ -201,8 +216,6 @@
     "Languages/Javascript/Array Methods/join().md",
     "Languages/Javascript/Array Methods/indexOf().md",
     "Languages/Javascript/Array Methods/includes().md",
-    "Languages/Javascript/Array Methods/from().md",
-    "Languages/Javascript/Array Methods/forEach().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

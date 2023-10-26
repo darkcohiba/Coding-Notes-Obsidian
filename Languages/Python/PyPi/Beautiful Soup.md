@@ -11,6 +11,10 @@ title: Beautiful Soup
 
 # Notes
 - [Repository Link](https://github.com/darkcohiba/100-days-of-python-udemy/tree/main/day-45)
+- Install Beautiful Soup
+```bash
+pip install beautifulsoup4
+```
 - Import Beautiful Soup
 ```python
 from bs4 import BeautifulSoup
