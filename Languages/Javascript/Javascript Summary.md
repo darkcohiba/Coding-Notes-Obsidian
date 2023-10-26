@@ -1,3 +1,7 @@
+---
+tags:
+  - javascript
+---
 
 # Methods
 
@@ -9,6 +13,15 @@ WHERE type = "array method"
 SORT title asc
 ```
 
+
+## String Methods
+
+```dataview
+LIST
+FROM ""
+WHERE type = "string method"
+SORT title asc
+```
 # Ecosystem
 - The Javascript ecosystem includes packages that are communicated created and shared on NPM 
 	- See my favorite packages here [[Languages/Javascript/NPM/Favorite Packages|Favorite Packages]]
@@ -20,10 +33,8 @@ SORT title asc
 	- Express
 
 # To Dos
-- [ ] Finish Array Methods 
-- [ ] Start String Methods
+- [x] Finish Array Methods
+- [x] Start String Methods
 - [ ] Finish String Methods
 
-# Basic Tags
-- #javascript
 

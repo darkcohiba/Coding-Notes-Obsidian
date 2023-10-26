@@ -10,6 +10,7 @@
 ```dataview
 TASK 
 FROM ""
+WHERE !completed
 ```
 ## Misc
 - [[HTTP Status Codes]]

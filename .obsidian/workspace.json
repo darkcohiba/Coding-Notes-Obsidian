@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Languages/Javascript/Javascript Summary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Beautiful Soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Summary.md"
+                "file": "Languages/Python/PyPi/Beautiful Soup.md"
               }
             }
           },
@@ -177,32 +177,32 @@
   },
   "active": "034998af0a17929e",
   "lastOpenFiles": [
+    "Languages/Javascript/String Methods/at().md",
+    "Languages/Javascript/Javascript Summary.md",
+    "Data Structures/String.md",
     "Data Structures/Array.md",
+    "Code Summary.md",
+    "Languages/Javascript/Array Methods/findIndex().md",
+    "Languages/Javascript/Array Methods/findLast().md",
+    "Languages/Javascript/Array Methods/findLastIndex().md",
+    "Languages/Javascript/Array Methods/forEach().md",
+    "Languages/Javascript/Array Methods/from().md",
+    "Languages/Javascript/Array Methods/includes().md",
+    "Languages/Javascript/Array Methods/indexOf().md",
+    "Languages/Javascript/Array Methods/join().md",
+    "Languages/Javascript/Array Methods/keys().md",
+    "Languages/Javascript/Array Methods/values().md",
+    "Languages/Javascript/Array Methods/unshift().md",
+    "Languages/Javascript/Array Methods/lastIndexOf().md",
+    "Languages/Javascript/Array Methods/toSpliced().md",
+    "Languages/Javascript/Array Methods/toString().md",
+    "Languages/Javascript/Array Methods/sort().md",
+    "Languages/Javascript/Array Methods/splice().md",
+    "Languages/Javascript/Array Methods/slice().md",
+    "Templates/Method Template.md",
     "Languages/Javascript/Array Methods/toSorted().md",
     "Languages/Javascript/Array Methods/toReversed().md",
-    "Languages/Javascript/Array Methods/splice().md",
-    "Languages/Javascript/Array Methods/sort().md",
     "Languages/Javascript/Array Methods/some().md",
-    "Languages/Javascript/Array Methods/slice().md",
-    "Languages/Javascript/Array Methods/shift().md",
-    "Languages/Javascript/Array Methods/reverse().md",
-    "Languages/Javascript/Array Methods/reduce().md",
-    "Languages/Javascript/Array Methods/push().md",
-    "Languages/Javascript/Array Methods/pop().md",
-    "Languages/Javascript/Array Methods/map().md",
-    "Languages/Javascript/Array Methods/lastIndexOf().md",
-    "Languages/Javascript/Array Methods/keys().md",
-    "Languages/Javascript/Array Methods/join().md",
-    "Languages/Javascript/Array Methods/indexOf().md",
-    "Languages/Javascript/Array Methods/includes().md",
-    "Languages/Javascript/Array Methods/from().md",
-    "Languages/Javascript/Array Methods/forEach().md",
-    "Languages/Javascript/Array Methods/findLastIndex().md",
-    "Languages/Javascript/Array Methods/findLast().md",
-    "Languages/Javascript/Array Methods/findIndex().md",
-    "Languages/Javascript/Javascript Summary.md",
-    "Languages/Javascript/Array Methods/find().md",
-    "Languages/Javascript/Array Methods/filter().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
