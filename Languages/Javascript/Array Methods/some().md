@@ -3,6 +3,7 @@ tags:
   - array
   - javascript
 type: array method
+title: some()
 ---
 # Basics
 - The **`some()`** method of [[Array]] instances tests whether at least one element in the array passes the test implemented by the provided function. It returns true if, in the array, it finds an element for which the provided function returns true; otherwise it returns false. It doesn't modify the array. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)

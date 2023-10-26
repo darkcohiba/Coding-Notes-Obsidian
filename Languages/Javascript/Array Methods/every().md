@@ -3,6 +3,7 @@ tags:
   - array
   - javascript
 type: array method
+title: every()
 ---
 
 # Basics

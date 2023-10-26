@@ -3,6 +3,7 @@ tags:
   - array
   - javascript
 type: array method
+title: splice()
 ---
 # Basics
 - The **`splice()`** method of [[Array]] instances changes the contents of an array by removing or replacing existing elements and/or adding new elements [in place](https://en.wikipedia.org/wiki/In-place_algorithm).

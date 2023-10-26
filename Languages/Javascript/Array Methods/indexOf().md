@@ -3,6 +3,7 @@ tags:
   - array
   - javascript
 type: array method
+title: indexOf()
 ---
 # Basics
 - The **`indexOf()`** method of [[Array]] instances returns the first index at which a given element can be found in the array, or -1 if it is not present. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)

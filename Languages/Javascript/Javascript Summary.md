@@ -6,6 +6,7 @@
 LIST
 FROM ""
 WHERE type = "array method"
+SORT title asc
 ```
 
 # Ecosystem

@@ -3,6 +3,7 @@ tags:
   - javascript
   - array
 type: array method
+title: fill()
 ---
 
 # Basics
