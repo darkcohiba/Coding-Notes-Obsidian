@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Javascript/String Methods/padStart().md",
+                "file": "Languages/Javascript/String Methods/toLowerCase().md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Javascript/String Methods/padStart().md",
+                "file": "Languages/Javascript/String Methods/toLowerCase().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Javascript/String Methods/padStart().md",
+                "file": "Languages/Javascript/String Methods/toLowerCase().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Javascript/String Methods/padStart().md"
+                "file": "Languages/Javascript/String Methods/toLowerCase().md"
               }
             }
           },
@@ -190,8 +190,18 @@
   },
   "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
-    "Languages/Javascript/String Methods/padEnd().md",
+    "Languages/Javascript/String Methods/substring().md",
+    "Languages/Javascript/String Methods/toLowerCase().md",
+    "Languages/Javascript/String Methods/startsWith().md",
     "Languages/Javascript/String Methods/padStart().md",
+    "Languages/Javascript/String Methods/repeat().md",
+    "Languages/Javascript/String Methods/replace().md",
+    "Languages/Javascript/String Methods/replaceAll().md",
+    "Languages/Javascript/String Methods/search().md",
+    "Languages/Javascript/String Methods/slice().md",
+    "Languages/Javascript/String Methods/split().md",
+    "Code Summary.md",
+    "Languages/Javascript/String Methods/padEnd().md",
     "Languages/Javascript/String Methods/match().md",
     "Languages/Javascript/String Methods/indexOf().md",
     "Languages/Python/PyPi/Beautiful Soup.md",
@@ -206,16 +216,6 @@
     "Languages/Javascript/Array Methods/toReversed().md",
     "Languages/Javascript/Array Methods/splice().md",
     "Languages/Javascript/Array Methods/sort().md",
-    "Languages/Javascript/Array Methods/slice().md",
-    "Languages/Javascript/Array Methods/some().md",
-    "Languages/Javascript/Array Methods/shift().md",
-    "Languages/Javascript/Array Methods/reverse().md",
-    "Languages/Javascript/Array Methods/reduce().md",
-    "Languages/Javascript/Array Methods/push().md",
-    "Languages/Javascript/Array Methods/pop().md",
-    "Languages/Javascript/Array Methods/map().md",
-    "Languages/Javascript/Array Methods/lastIndexOf().md",
-    "Languages/Javascript/Array Methods/keys().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
