@@ -35,6 +35,6 @@ SORT file.name asc
 # To Dos
 - [x] Finish Array Methods
 - [x] Start String Methods
-- [ ] Finish String Methods
+- [x] Finish String Methods
 
 
