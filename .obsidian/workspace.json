@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b3626f33ed145b6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96d7301224036773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Javascript/String Methods/indexOf().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d11c20f16c5ae60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "313c679373270799",
         "type": "tabs",
         "children": [
@@ -188,14 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d11c20f16c5ae60",
+  "active": "f9e9cd66e16df4b6",
   "lastOpenFiles": [
+    "Languages/Javascript/Javascript Summary.md",
     "Code Summary.md",
+    "Data Structures/String.md",
+    "Data Structures/Array.md",
+    "Languages/Javascript/String Methods/indexOf().md",
     "Languages/Python/Python Summary.md",
     "Languages/Javascript/String Methods/trim().md",
     "Languages/Javascript/String Methods/toUpperCase().md",
     "Languages/Javascript/String Methods/toString().md",
-    "Languages/Javascript/Javascript Summary.md",
     "Languages/Javascript/String Methods/toLowerCase().md",
     "Languages/Javascript/String Methods/substring().md",
     "Languages/Javascript/String Methods/startsWith().md",
@@ -208,14 +180,11 @@
     "Languages/Javascript/String Methods/split().md",
     "Languages/Javascript/String Methods/padEnd().md",
     "Languages/Javascript/String Methods/match().md",
-    "Languages/Javascript/String Methods/indexOf().md",
     "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Javascript/String Methods/includes().md",
     "Languages/Javascript/String Methods/endsWith().md",
     "Languages/Javascript/Array Methods/values().md",
     "Languages/Javascript/Array Methods/unshift().md",
-    "Languages/Javascript/Array Methods/toString().md",
-    "Languages/Javascript/Array Methods/toSpliced().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
