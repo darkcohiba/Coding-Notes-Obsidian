@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+---
+
 # Methods
 
 ## Array Methods
@@ -9,5 +14,7 @@
 
 # To Dos
 - [x] Beautiful Soup!
-# Basic Tags
-- #python 
+- [ ] Start Array Methods
+- [ ] Finish Array Methods
+- [ ] Start String Methods
+- [ ] Finish String Methods

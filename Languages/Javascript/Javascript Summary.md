@@ -36,5 +36,6 @@ SORT file.name asc
 - [x] Finish Array Methods
 - [x] Start String Methods
 - [x] Finish String Methods
+- [ ] Add Lodash Summary
 
 

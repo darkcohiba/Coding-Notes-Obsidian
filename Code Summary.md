@@ -11,6 +11,7 @@
 TASK 
 FROM ""
 WHERE !completed
+GROUP BY file.link
 ```
 ## Misc
 - [[HTTP Status Codes]]

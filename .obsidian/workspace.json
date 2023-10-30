@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/React/Hooks/useEffect Hook.md",
+                "file": "Code Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/React/Hooks/useEffect Hook.md",
+                "file": "Code Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/React/Hooks/useEffect Hook.md",
+                "file": "Code Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/React/Hooks/useEffect Hook.md"
+                "file": "Code Summary.md"
               }
             }
           },
@@ -159,17 +159,19 @@
   },
   "active": "f9e9cd66e16df4b6",
   "lastOpenFiles": [
-    "Frameworks/React/Hooks/useReducer Hook.md",
+    "Frameworks/React/React Summary.md",
+    "Languages/Javascript/NPM/Favorite Packages.md",
+    "Frameworks/React/Tools/Favorite Tools.md",
+    "Languages/Javascript/Javascript Summary.md",
+    "Languages/Python/Python Summary.md",
+    "Code Summary.md",
     "Frameworks/React/Hooks/useEffect Hook.md",
+    "Frameworks/React/Hooks/useReducer Hook.md",
     "Frameworks/React/Hooks/useState Hook.md",
     "Frameworks/React/Hooks/useRef Hook.md",
-    "Frameworks/React/React Summary.md",
-    "Languages/Javascript/Javascript Summary.md",
-    "Code Summary.md",
     "Data Structures/String.md",
     "Data Structures/Array.md",
     "Languages/Javascript/String Methods/indexOf().md",
-    "Languages/Python/Python Summary.md",
     "Languages/Javascript/String Methods/trim().md",
     "Languages/Javascript/String Methods/toUpperCase().md",
     "Languages/Javascript/String Methods/toString().md",
@@ -183,8 +185,6 @@
     "Languages/Javascript/String Methods/search().md",
     "Languages/Javascript/String Methods/slice().md",
     "Languages/Javascript/String Methods/split().md",
-    "Languages/Javascript/String Methods/padEnd().md",
-    "Languages/Javascript/String Methods/match().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

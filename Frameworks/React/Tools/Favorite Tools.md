@@ -1,3 +1,7 @@
+---
+tags:
+  - javascript
+---
 
 | Name           | Use                 | Link                                                                                          | Tags | Page        |
 | -------------- | ------------------- | --------------------------------------------------------------------------------------------- | ---- | ----------- |
@@ -10,6 +14,3 @@
 | Shadcn         | Headless Components | [shadcn/ui](https://ui.shadcn.com/)                                                           |      |             |
 | React Aria     | Components as hooks | [React Aria](https://react-spectrum.adobe.com/react-aria/)                                    |      |             |
 
-
-# Basic tags
-- #javascript 
