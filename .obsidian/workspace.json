@@ -6,6 +6,7 @@
       {
         "id": "0fb19dd05b7b76da",
         "type": "tabs",
+        "dimension": 67.1965317919075,
         "children": [
           {
             "id": "883ffd427fae405d",
@@ -13,7 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Languages/Python/String Methods/capitalize().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3edfa41dd0d3b427",
+        "type": "tabs",
+        "dimension": 32.80346820809248,
+        "children": [
+          {
+            "id": "5fc884d201a089e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Python/Python Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Languages/Python/String Methods/capitalize().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Languages/Python/String Methods/capitalize().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md"
+                "file": "Languages/Python/String Methods/capitalize().md"
               }
             }
           },
@@ -157,20 +177,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "883ffd427fae405d",
+  "active": "0efc6ce31e42fed7",
   "lastOpenFiles": [
+    "Languages/Python/String Methods/casefold().md",
+    "Languages/Python/String Methods/center().md",
+    "Languages/Python/String Methods/count().md",
+    "Languages/Python/Python Summary.md",
+    "Languages/Python/String Methods/capitalize().md",
+    "Languages/Javascript/Javascript Summary.md",
     "Frameworks/React/React Summary.md",
     "Frameworks/React/Tools/Zustand.md",
     "Frameworks/React/Tools/Favorite Tools.md",
     "Languages/Javascript/NPM/Favorite Packages.md",
-    "Languages/Javascript/Javascript Summary.md",
     "misc/Markdown Overview.md",
     "misc/HTTP Status Codes.md",
     "Frameworks/React/Hooks/useRef Hook.md",
     "Frameworks/React/Hooks/useReducer Hook.md",
     "Frameworks/React/Hooks/useEffect Hook.md",
-    "Languages/Python/Python Summary.md",
-    "Languages/Python/String Methods/capitalize().md",
     "Code Summary.md",
     "Languages/CSS - Cascading Style Sheets",
     "Frameworks/React/Hooks/useState Hook.md",
@@ -183,9 +206,6 @@
     "Languages/Javascript/String Methods/toLowerCase().md",
     "Languages/Javascript/String Methods/substring().md",
     "Languages/Javascript/String Methods/startsWith().md",
-    "Languages/Javascript/String Methods/padStart().md",
-    "Languages/Javascript/String Methods/repeat().md",
-    "Languages/Javascript/String Methods/replace().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
