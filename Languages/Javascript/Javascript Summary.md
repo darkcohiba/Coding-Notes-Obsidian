@@ -18,7 +18,7 @@ SORT file.name asc
 
 ```dataview
 LIST
-FROM ""
+FROM #javascript 
 WHERE type = "string method"
 SORT file.name asc
 ```

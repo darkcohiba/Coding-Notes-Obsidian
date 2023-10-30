@@ -1,3 +1,7 @@
+---
+tags:
+  - "#datafetching"
+---
 # Categories
 
 - **1XX** status codes: Informational Requests
@@ -79,5 +83,3 @@
 | 511  | Network Authentication Required    | Indicates that the client needs to authenticate to gain network access.                                                                                                                                                                      |
 | 599  | Network Connect Timeout Error      | The connection timed out due to a overloaded server, a hardware error or a infrastructure error.                                                                                                                                             |
 
-# Basic Tags
-- #datafetching 
