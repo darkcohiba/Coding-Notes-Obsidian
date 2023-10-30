@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/HTTP Status Codes.md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/HTTP Status Codes.md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/HTTP Status Codes.md",
+                "file": "Languages/Javascript/Javascript Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/HTTP Status Codes.md"
+                "file": "Languages/Javascript/Javascript Summary.md"
               }
             }
           },
@@ -159,7 +159,13 @@
   },
   "active": "883ffd427fae405d",
   "lastOpenFiles": [
+    "Frameworks/React/React Summary.md",
+    "Frameworks/React/Tools/Zustand.md",
+    "Frameworks/React/Tools/Favorite Tools.md",
+    "Languages/Javascript/NPM/Favorite Packages.md",
     "Languages/Javascript/Javascript Summary.md",
+    "misc/Markdown Overview.md",
+    "misc/HTTP Status Codes.md",
     "Frameworks/React/Hooks/useRef Hook.md",
     "Frameworks/React/Hooks/useReducer Hook.md",
     "Frameworks/React/Hooks/useEffect Hook.md",
@@ -167,9 +173,6 @@
     "Languages/Python/String Methods/capitalize().md",
     "Code Summary.md",
     "Languages/CSS - Cascading Style Sheets",
-    "Frameworks/React/React Summary.md",
-    "Languages/Javascript/NPM/Favorite Packages.md",
-    "Frameworks/React/Tools/Favorite Tools.md",
     "Frameworks/React/Hooks/useState Hook.md",
     "Data Structures/String.md",
     "Data Structures/Array.md",
@@ -183,9 +186,6 @@
     "Languages/Javascript/String Methods/padStart().md",
     "Languages/Javascript/String Methods/repeat().md",
     "Languages/Javascript/String Methods/replace().md",
-    "Languages/Javascript/String Methods/replaceAll().md",
-    "Languages/Javascript/String Methods/search().md",
-    "Languages/Javascript/String Methods/slice().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

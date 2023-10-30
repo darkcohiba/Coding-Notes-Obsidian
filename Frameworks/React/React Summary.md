@@ -11,7 +11,11 @@ WHERE type = "react hook"
 ```
 
 # [[Favorite Tools]]
--  [[Zustand]]
+```dataview
+LIST
+FROM ""
+WHERE type = "react tool"
+```
 
 # To Dos
 - [ ] Finish Zustand Section
