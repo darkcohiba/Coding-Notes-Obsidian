@@ -12,7 +12,26 @@ type: react hook
 ```javascript
 const ref = useRef(initialValue)
 ```
-- To update and view our ref we must access the current property
+#### Parameters [](https://react.dev/reference/react/useRef#parameters "Link for Parameters")
+
+- `initialValue`: The value you want the ref object’s `current` property to be initially. It can be a value of any type. This argument is ignored after the initial render.
+
+#### Returns [](https://react.dev/reference/react/useRef#returns "Link for Returns")
+
+`useRef` returns an object with a single property:
+
+- `current`: Initially, it’s set to the `initialValue` you have passed. You can later set it to something else. If you pass the ref object to React as a `ref` attribute to a JSX node, React will set its `current` property.
+
+On the next renders, `useRef` will return the same object.
+
+#### Caveats [](https://react.dev/reference/react/useRef#caveats "Link for Caveats")
+
+- You can mutate the `ref.current` property. Unlike state, it is mutable. However, if it holds an object that is used for rendering (for example, a piece of your state), then you shouldn’t mutate that object.
+- When you change the `ref.current` property, React does not re-render your component. React is not aware of when you change it because a ref is a plain JavaScript object.
+- Do not write _or read_ `ref.current` during rendering, except for [initialization.](https://react.dev/reference/react/useRef#avoiding-recreating-the-ref-contents) This makes your component’s behavior unpredictable.
+- In Strict Mode, React will **call your component function twice** in order to [help you find accidental impurities.](https://react.dev/reference/react/useRef#my-initializer-or-updater-function-runs-twice) This is development-only behavior and does not affect production. Each ref object will be created twice, but one of the versions will be discarded. If your component function is pure (as it should be), this should not affect the behavior.
+
+#### Examples
 - Counter Example 
 ```javascript
 import { useRef } from 'react';
