@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Frameworks/React/Hooks/useRef Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Frameworks/React/Hooks/useRef Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md",
+                "file": "Frameworks/React/Hooks/useRef Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Javascript/Javascript Summary.md"
+                "file": "Frameworks/React/Hooks/useRef Hook.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "f9e9cd66e16df4b6",
   "lastOpenFiles": [
+    "Frameworks/React/Hooks/useState Hook.md",
+    "Frameworks/React/Hooks/useEffect Hook.md",
+    "Frameworks/React/React Summary.md",
     "Languages/Javascript/Javascript Summary.md",
     "Code Summary.md",
     "Data Structures/String.md",
@@ -182,9 +185,6 @@
     "Languages/Javascript/String Methods/match().md",
     "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Javascript/String Methods/includes().md",
-    "Languages/Javascript/String Methods/endsWith().md",
-    "Languages/Javascript/Array Methods/values().md",
-    "Languages/Javascript/Array Methods/unshift().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",
