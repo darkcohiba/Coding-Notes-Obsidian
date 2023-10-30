@@ -30,3 +30,71 @@ const [state, setState] = useState(initialState);
 
 - `useState` is a Hook, so you can only call it **at the top level of your component** or your own Hooks. You can’t call it inside loops or conditions. If you need that, extract a new component and move the state into it.
 - In Strict Mode, React will **call your initializer function twice** in order to [help you find accidental impurities.](https://react.dev/reference/react/useState#my-initializer-or-updater-function-runs-twice) This is development-only behavior and does not affect production. If your initializer function is pure (as it should be), this should not affect the behavior. The result from one of the calls will be ignored.
+
+#### Examples
+- Counter
+```javascript
+import { useState } from 'react';
+
+export default function Counter() {
+  const [count, setCount] = useState(0);
+
+  function handleClick() {
+    setCount(count + 1);
+  }
+
+  return (
+    <button onClick={handleClick}>
+      You pressed me {count} times
+    </button>
+  );
+}
+```
+- Text Input
+```javascript
+import { useState } from 'react';
+
+export default function MyInput() {
+  const [text, setText] = useState('hello');
+
+  function handleChange(e) {
+    setText(e.target.value);
+  }
+
+  return (
+    <>
+      <input value={text} onChange={handleChange} />
+      <p>You typed: {text}</p>
+      <button onClick={() => setText('hello')}>
+        Reset
+      </button>
+    </>
+  );
+}
+```
+- Boolean Field
+```javascript
+import { useState } from 'react';
+
+export default function MyCheckbox() {
+  const [liked, setLiked] = useState(true);
+
+  function handleChange(e) {
+    setLiked(e.target.checked);
+  }
+
+  return (
+    <>
+      <label>
+        <input
+          type="checkbox"
+          checked={liked}
+          onChange={handleChange}
+        />
+        I liked this
+      </label>
+      <p>You {liked ? 'liked' : 'did not like'} this.</p>
+    </>
+  );
+}
+```

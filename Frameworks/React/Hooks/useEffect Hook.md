@@ -33,3 +33,25 @@ useEffect(setup, dependencies?)
 - Even if your Effect was caused by an interaction (like a click), **the browser may repaint the screen before processing the state updates inside your Effect.** Usually, that’s what you want. However, if you must block the browser from repainting the screen, you need to replace `useEffect` with [`useLayoutEffect`.](https://react.dev/reference/react/useLayoutEffect)
 - Effects **only run on the client.** They don’t run during server rendering.
 
+#### Examples
+- Fetch Data
+```javascript
+import { useEffect, useState } from 'react'
+
+function App() {
+  const [clothesArray, setClothesArray] = useState([])
+
+  useEffect(()=>{
+    fetch('http://localhost:4000/apparel')
+    .then(response => response.json())
+    .then(data => setClothesArray(data))
+  },[])
+  
+  return (
+    <>
+		{clothesArray.map(cloth => <p>{cloth.name} : {cloth.size}</p>)}
+    </>
+  )
+}
+export default App
+```
