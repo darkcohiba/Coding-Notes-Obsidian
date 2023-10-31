@@ -10,5 +10,5 @@ type: string method
 txt = "hello, and welcome to my world."  
 x = txt.capitalize()  
 print (x)
-# Hello, and welcome to my world.
+# output Hello, and welcome to my world.
 ```

@@ -10,5 +10,5 @@ type: string method
 txt = "Hello, And Welcome To My World!"  
 x = txt.casefold()  
 print(x)
-# hello, and welcome to my world!
+# output hello, and welcome to my world!
 ```

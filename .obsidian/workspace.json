@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/capitalize().md",
+                "file": "Languages/Python/String Methods/isalpha().md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/capitalize().md",
+                "file": "Languages/Python/String Methods/isalpha().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/capitalize().md",
+                "file": "Languages/Python/String Methods/isalpha().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/capitalize().md"
+                "file": "Languages/Python/String Methods/isalpha().md"
               }
             }
           },
@@ -177,20 +177,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "883ffd427fae405d",
   "lastOpenFiles": [
+    "Languages/Python/String Methods/isalnum().md",
+    "Languages/Python/String Methods/isalpha().md",
+    "Languages/Python/String Methods/index().md",
+    "Languages/Python/String Methods/find().md",
+    "Languages/Python/String Methods/endswith().md",
+    "Languages/Python/String Methods/encode().md",
+    "Languages/Python/String Methods/count().md",
+    "Languages/Python/String Methods/capitalize().md",
     "Languages/Python/String Methods/casefold().md",
     "Languages/Python/String Methods/center().md",
-    "Languages/Python/String Methods/count().md",
     "Languages/Python/Python Summary.md",
-    "Languages/Python/String Methods/capitalize().md",
+    "misc/HTTP Status Codes.md",
     "Languages/Javascript/Javascript Summary.md",
     "Frameworks/React/React Summary.md",
     "Frameworks/React/Tools/Zustand.md",
     "Frameworks/React/Tools/Favorite Tools.md",
     "Languages/Javascript/NPM/Favorite Packages.md",
     "misc/Markdown Overview.md",
-    "misc/HTTP Status Codes.md",
     "Frameworks/React/Hooks/useRef Hook.md",
     "Frameworks/React/Hooks/useReducer Hook.md",
     "Frameworks/React/Hooks/useEffect Hook.md",
@@ -200,12 +206,6 @@
     "Data Structures/String.md",
     "Data Structures/Array.md",
     "Languages/Javascript/String Methods/indexOf().md",
-    "Languages/Javascript/String Methods/trim().md",
-    "Languages/Javascript/String Methods/toUpperCase().md",
-    "Languages/Javascript/String Methods/toString().md",
-    "Languages/Javascript/String Methods/toLowerCase().md",
-    "Languages/Javascript/String Methods/substring().md",
-    "Languages/Javascript/String Methods/startsWith().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

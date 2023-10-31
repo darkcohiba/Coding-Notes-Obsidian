@@ -18,7 +18,7 @@ console.log(found);
 
 - If you need to find:
 
-	- the _first_ element that matches, use [[find()]].
+	- the _first_ element that matches, use [[Languages/Python/String Methods/find()]].
 	- the _index_ of the last matching element in the array, use [`findLastIndex()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findLastIndex).
 	- the _index of a value_, use [`indexOf()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf). (It's similar to [[findIndex()]], but checks each element for equality with the value instead of using a testing function.)
 	- whether a value _exists_ in an array, use [`includes()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes). Again, it checks each element for equality with the value instead of using a testing function.
