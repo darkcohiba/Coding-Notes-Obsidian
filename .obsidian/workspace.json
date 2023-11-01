@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/isupper().md",
+                "file": "Frameworks/React/Tools/Zustand.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/isupper().md",
+                "file": "Frameworks/React/Tools/Zustand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/isupper().md",
+                "file": "Frameworks/React/Tools/Zustand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/isupper().md"
+                "file": "Frameworks/React/Tools/Zustand.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "883ffd427fae405d",
   "lastOpenFiles": [
-    "Frameworks/React/Tools/Zustand.md",
     "Languages/Python/String Methods/isupper().md",
+    "Frameworks/React/Tools/Zustand.md",
     "Templates/Method Template.md",
     "Languages/Python/String Methods/istitle().md",
     "Languages/Python/String Methods/islower().md",
