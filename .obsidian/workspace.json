@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/isalpha().md",
+                "file": "Languages/Python/String Methods/isupper().md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/isalpha().md",
+                "file": "Languages/Python/String Methods/isupper().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/isalpha().md",
+                "file": "Languages/Python/String Methods/isupper().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/isalpha().md"
+                "file": "Languages/Python/String Methods/isupper().md"
               }
             }
           },
@@ -179,8 +179,15 @@
   },
   "active": "883ffd427fae405d",
   "lastOpenFiles": [
-    "Languages/Python/String Methods/isalnum().md",
+    "Frameworks/React/Tools/Zustand.md",
+    "Languages/Python/String Methods/isupper().md",
+    "Templates/Method Template.md",
+    "Languages/Python/String Methods/istitle().md",
+    "Languages/Python/String Methods/islower().md",
+    "Languages/Python/String Methods/isdigit().md",
+    "Languages/Python/String Methods/isdecimal().md",
     "Languages/Python/String Methods/isalpha().md",
+    "Languages/Python/String Methods/isalnum().md",
     "Languages/Python/String Methods/index().md",
     "Languages/Python/String Methods/find().md",
     "Languages/Python/String Methods/endswith().md",
@@ -193,19 +200,12 @@
     "misc/HTTP Status Codes.md",
     "Languages/Javascript/Javascript Summary.md",
     "Frameworks/React/React Summary.md",
-    "Frameworks/React/Tools/Zustand.md",
     "Frameworks/React/Tools/Favorite Tools.md",
     "Languages/Javascript/NPM/Favorite Packages.md",
     "misc/Markdown Overview.md",
     "Frameworks/React/Hooks/useRef Hook.md",
     "Frameworks/React/Hooks/useReducer Hook.md",
-    "Frameworks/React/Hooks/useEffect Hook.md",
-    "Code Summary.md",
     "Languages/CSS - Cascading Style Sheets",
-    "Frameworks/React/Hooks/useState Hook.md",
-    "Data Structures/String.md",
-    "Data Structures/Array.md",
-    "Languages/Javascript/String Methods/indexOf().md",
     "Untitled.canvas",
     "Frameworks",
     "Languages",

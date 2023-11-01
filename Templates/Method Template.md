@@ -4,6 +4,6 @@ type:
 ---
 # Basics
 - summary [link](link)
-```javascript
+```python
 code
 ```
