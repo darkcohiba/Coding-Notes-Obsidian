@@ -138,3 +138,54 @@ const useFormStore = create(
 
 export default useFormStore;
 ```
+
+## Cooper's Store
+- Cooper created one store for all his different states.
+
+```javascript
+import { create } from 'zustand';
+
+const useStore = create (set =>  ({
+    users: [],
+    addUser: (user) => set(state => ({users: [...state.users, user]})),
+    current_user : {},
+    setCurrentUser: (state) => set({current_user: state}),
+    logoutCurrentUser: () => set({current_user: null}),
+
+    loginErrors: [],
+    addLoginErrors: (error) => set(state => ({loginErrors: [...state.loginErrors, error]})),
+    clearLoginErrors: () => set({loginErrors: []}),
+
+    signupErrors: [],
+    addSignupErrors: (error) => set(state => ({signupErrors: [...state.signupErrors, error]})),
+    clearSignupErrors: () => set({signupErrors: []}),
+
+    items: [], 
+    addItems: (item) => set(state => ({items: [...state.items, item]})),
+    clearItems: () => set({items: []}),
+
+    // isFavoriteArticle: !!state.favoriteArticles.filter(favorite => favorite.id === articleId),
+    isFavoriteArticle: false,
+    toggleIsFavoriteArticle: () => set((state) => ({isFavoriteArticle: !state.isFavoriteArticle})),
+    favoriteArticles: [],
+    deleteFavoriteArticle: (favoriteId) => set(state => ({
+        favoriteArticles: state.favoriteArticles.filter(favorite => favorite.id !== favoriteId)
+    })),
+    addFavoriteArticle: (newFavorite) => set(state => ({favoriteArticles: [...state.favoriteArticles, newFavorite]})), 
+
+    isEditable: false,
+    setIsEditable: () => set((state) => ({isEditable: !state.isEditable})),
+
+
+    isCurrentEventKey: false,
+    setIsCurrentEventKey: (value) => set({isCurrentEventKey: value }),
+
+    userNotes: [],
+    setUserNotes: (value) => set(state => ({userNotes: [...state.userNotes, value]})),
+
+    currentKey: null,
+    setCurrentKey: (value) => set({currentKey: value})
+}))
+
+export default useStore;
+```
