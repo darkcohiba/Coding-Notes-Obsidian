@@ -18,6 +18,6 @@ tags:
 | Figlet           | CLI Design   | [https://pypi.org/project/pyfiglet/0.7/](https://pypi.org/project/pyfiglet/0.7/)                                  | #CLI    |
 | Figlet Fonts     | CLI Design   | [http://www.figlet.org/](http://www.figlet.org/)                                                                  | #CLI    |
 | Turtle           | CLI          | [http://www.figlet.org/](http://www.figlet.org/)                                                                  | no tags |
-| Inquirer         | CLI          | [https://pypi.org/project/inquirer/](https://pypi.org/project/inquirer/)                                          | #CLI    |
+| Inquirer         | CLI          | [[Inquirer]]                                       | #CLI    |
 | Beautiful Soup   | Web Scraping | [[Beautiful Soup]]                                                                                                |         |
 
