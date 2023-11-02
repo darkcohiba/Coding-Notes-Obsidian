@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks/React/Tools/Zustand.md",
+                "file": "Languages/Python/PyPi/Inquirer.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/React/Tools/Zustand.md",
+                "file": "Languages/Python/PyPi/Inquirer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/React/Tools/Zustand.md",
+                "file": "Languages/Python/PyPi/Inquirer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frameworks/React/Tools/Zustand.md"
+                "file": "Languages/Python/PyPi/Inquirer.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "883ffd427fae405d",
   "lastOpenFiles": [
-    "Languages/Python/PyPi/Inquirer.md",
-    "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Python/PyPi/Favorite Packages.md",
     "Frameworks/React/Tools/Zustand.md",
+    "Languages/Python/PyPi/Inquirer.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Python/String Methods/isupper().md",
     "Templates/Method Template.md",
     "Languages/Python/String Methods/istitle().md",
