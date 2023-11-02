@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/PyPi/Fire.md",
+                "file": "Languages/Python/PyPi/Click.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/PyPi/Fire.md",
+                "file": "Languages/Python/PyPi/Click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/PyPi/Fire.md",
+                "file": "Languages/Python/PyPi/Click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/PyPi/Fire.md"
+                "file": "Languages/Python/PyPi/Click.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "427f249f3e4ebbad",
   "lastOpenFiles": [
-    "Languages/Python/PyPi/Click.md",
     "Languages/Python/PyPi/Fire.md",
     "Languages/Python/PyPi/Inquirer.md",
+    "Languages/Python/PyPi/Click.md",
     "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Python/Python Summary.md",
     "Languages/Javascript/Javascript Summary.md",
