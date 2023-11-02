@@ -21,11 +21,22 @@ SORT file.name asc
 ```
 # Ecosystem
 - The Python ecosystem includes packages that are communicated created and shared on PyPi 
-	- See my favorite packages here [[Languages/Python/PyPi/Favorite Packages|Favorite Packages]]
-		- [[Beautiful Soup]]
+## Packages
+- See my favorite packages here [[Languages/Python/PyPi/Favorite Packages|Favorite Packages]]
+- Below is a list of packages with extensive notes:
+```dataview
+TABLE file.tags
+FROM #python 
+WHERE type = "cli tool"
+SORT file.name asc
+```
 
 # To Dos
 - [x] Beautiful Soup!
+- [x] Inquirer
+- [ ] Fire
+- [ ] Click
+- [ ] Rich Colors
 - [ ] Start Array Methods
 - [ ] Finish Array Methods
 - [x] Start String Methods

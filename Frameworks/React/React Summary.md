@@ -18,5 +18,5 @@ WHERE type = "react tool"
 ```
 
 # To Dos
-- [ ] Finish Zustand Section
+- [x] Finish Zustand Section
 

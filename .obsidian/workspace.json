@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb19dd05b7b76da",
+        "id": "7b244318d090afe8",
         "type": "tabs",
-        "dimension": 67.1965317919075,
         "children": [
           {
-            "id": "883ffd427fae405d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Python/PyPi/Inquirer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3edfa41dd0d3b427",
-        "type": "tabs",
-        "dimension": 32.80346820809248,
-        "children": [
-          {
-            "id": "5fc884d201a089e6",
+            "id": "427f249f3e4ebbad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/PyPi/Inquirer.md",
+                "file": "Languages/Python/Python Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/PyPi/Inquirer.md",
+                "file": "Languages/Python/Python Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/PyPi/Inquirer.md"
+                "file": "Languages/Python/Python Summary.md"
               }
             }
           },
@@ -177,12 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "883ffd427fae405d",
+  "active": "427f249f3e4ebbad",
   "lastOpenFiles": [
+    "Languages/Python/PyPi/Inquirer.md",
+    "Languages/Javascript/Javascript Summary.md",
+    "Code Summary.md",
+    "Languages/Python/Python Summary.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Javascript/NPM/Favorite Packages.md",
     "Languages/Python/PyPi/Favorite Packages.md",
     "Frameworks/React/Tools/Zustand.md",
-    "Languages/Python/PyPi/Inquirer.md",
-    "Languages/Python/PyPi/Beautiful Soup.md",
     "Languages/Python/String Methods/isupper().md",
     "Templates/Method Template.md",
     "Languages/Python/String Methods/istitle().md",
@@ -199,12 +183,8 @@
     "Languages/Python/String Methods/capitalize().md",
     "Languages/Python/String Methods/casefold().md",
     "Languages/Python/String Methods/center().md",
-    "Languages/Python/Python Summary.md",
     "misc/HTTP Status Codes.md",
-    "Languages/Javascript/Javascript Summary.md",
     "Frameworks/React/React Summary.md",
-    "Frameworks/React/Tools/Favorite Tools.md",
-    "Languages/Javascript/NPM/Favorite Packages.md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
