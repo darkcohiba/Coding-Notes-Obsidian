@@ -97,3 +97,13 @@ console.print("Rich", style=style, justify="right")
 name = console.input("What is [i]your[/i] [bold red]name[/]? :smiley: ")
 console.print(f'Hello {name}', style='italic white on black', justify='center')
 ```
+
+## Progress Bar
+- We can use the track tool in rich.progress to give us a fun progress bar
+```python
+import time
+from rich.progress import track
+
+for _ in track(range(20), description="Processing..."):
+	time.sleep(1)
+```

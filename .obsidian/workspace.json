@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Rich.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Rich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Languages/Python/PyPi/Rich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Summary.md"
+                "file": "Languages/Python/PyPi/Rich.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "37e0bd088aa47575",
   "lastOpenFiles": [
+    "Code Summary.md",
     "Languages/Python/PyPi/Rich.md",
     "misc/Images/Pasted image 20231103104057.png",
     "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
@@ -175,7 +176,6 @@
     "Languages/Python/PyPi/Typer.md",
     "Languages/Python/Untitled.md",
     "Languages/Javascript/Javascript Summary.md",
-    "Code Summary.md",
     "Frameworks/React/Tools/Zustand.md",
     "Languages/Python/String Methods/isupper().md",
     "Templates/Method Template.md",
