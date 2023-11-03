@@ -2,7 +2,7 @@
 tags:
   - python
   - CLI
-type: cli tool
+type: python package
 ---
 # Basics
 - Python Fire is a Python library that will turn any Python component into a command line interface with just a single call to `Fire`.

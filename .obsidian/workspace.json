@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b244318d090afe8",
+        "id": "a160a539bcbdfbd6",
         "type": "tabs",
         "children": [
           {
-            "id": "427f249f3e4ebbad",
+            "id": "37e0bd088aa47575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/PyPi/Favorite Packages.md",
+                "file": "Code Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/PyPi/Favorite Packages.md",
+                "file": "Code Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/PyPi/Favorite Packages.md",
+                "file": "Code Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/PyPi/Favorite Packages.md"
+                "file": "Code Summary.md"
               }
             }
           },
@@ -157,20 +157,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "427f249f3e4ebbad",
+  "active": "37e0bd088aa47575",
   "lastOpenFiles": [
-    "Languages/Python/PyPi/Pygame.md",
-    "Languages/Python/PyPi/Favorite Packages.md",
-    "Languages/Python/PyPi/Typer.md",
-    "Languages/Python/PyPi/Click.md",
-    "Languages/Python/Untitled.md",
-    "Languages/Python/PyPi/Fire.md",
-    "Languages/Python/PyPi/Inquirer.md",
-    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Python/PyPi/Rich.md",
+    "misc/Images/Pasted image 20231103104057.png",
+    "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
+    "misc/Images",
+    "misc/Images/Pasted image 20231103124937.png",
     "Languages/Python/Python Summary.md",
+    "Languages/Python/PyPi/Pygame.md",
+    "Languages/Javascript/NPM/Favorite Packages.md",
+    "Languages/Python/PyPi/Favorite Packages.md",
+    "Languages/Python/PyPi/Fire.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Python/PyPi/Click.md",
+    "Languages/Python/PyPi/Inquirer.md",
+    "Languages/Python/PyPi/Typer.md",
+    "Languages/Python/Untitled.md",
     "Languages/Javascript/Javascript Summary.md",
     "Code Summary.md",
-    "Languages/Javascript/NPM/Favorite Packages.md",
     "Frameworks/React/Tools/Zustand.md",
     "Languages/Python/String Methods/isupper().md",
     "Templates/Method Template.md",
@@ -183,8 +188,6 @@
     "Languages/Python/String Methods/index().md",
     "Languages/Python/String Methods/find().md",
     "Languages/Python/String Methods/endswith().md",
-    "Languages/Python/String Methods/encode().md",
-    "Languages/Python/String Methods/count().md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
@@ -195,7 +198,6 @@
     "Frameworks/React/Tools/State Management",
     "Frameworks/React/Tools",
     "API",
-    "Languages/Python/PyPi",
     "Untitled 1.canvas"
   ]
 }

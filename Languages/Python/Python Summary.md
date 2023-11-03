@@ -27,16 +27,16 @@ SORT file.name asc
 ```dataview
 TABLE file.tags
 FROM #python 
-WHERE type = "cli tool"
+WHERE type = "python package"
 SORT file.name asc
 ```
 
 # To Dos
 - [x] Beautiful Soup!
 - [x] Inquirer
-- [ ] Fire
-- [ ] Click
-- [ ] Rich Colors
+- [x] Fire
+- [x] Click
+- [x] Rich Colors
 - [ ] Start Array Methods
 - [ ] Finish Array Methods
 - [x] Start String Methods

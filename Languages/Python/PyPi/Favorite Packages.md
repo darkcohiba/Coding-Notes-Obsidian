@@ -8,7 +8,7 @@ tags:
 | Fire             | CLI          | [[Fire]]                                                                                  | #CLI    |
 | Pick             | CLI Choices  | [Pick](https://pypi.org/project/pick/)                                                    | #CLI    |
 | TQDM             | Loading Bar  | [A Fast, Extensible Progress Bar for Python and CLI](https://github.com/tqdm/tqdm)        | #CLI    |
-| Rich             | CLI Design   | [Rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich) | #CLI    |
+| Rich             | CLI Design   | [[Rich]] | #CLI    |
 | Playsound        | Sound        | [playsound · PyP](https://pypi.org/project/playsound/)                                    | no tags |
 | Setup Tools      | CLI Set up   | [setuptools · PyPI](https://pypi.org/project/setuptools/)                                 | #CLI    |
 | Simple Term Menu | CLI          | [simple-term-menu · PyPI](https://pypi.org/project/simple-term-menu/)                     | #CLI    |
@@ -19,5 +19,6 @@ tags:
 | Turtle           | CLI          | [http://www.figlet.org/](http://www.figlet.org/)                                          | no tags |
 | Inquirer         | CLI          | [[Inquirer]]                                                                              | #CLI    |
 | Beautiful Soup   | Web Scraping | [[Beautiful Soup]]                                                                        |         |
-| Typer                 |    CLI          |        [Typer](https://typer.tiangolo.com/)                                                                                | #CLI         |
+| Typer            | CLI          | [Typer](https://typer.tiangolo.com/)                                                      | #CLI    |
+| Pygame           | Games        | [[Pygame]]                                                                                |         |
 
