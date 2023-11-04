@@ -22,7 +22,7 @@ type: python package
 pipenv install click
 ```
 
-- Import inquirer on the top of our file
+- Import click on the top of our file
 
 ```python
 import click
