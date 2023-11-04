@@ -65,3 +65,32 @@ ic(check_weight(100, 94))
 
 # output ic| check_weight(100, 94): 'Good Too'
 ```
+
+- Using *ic()* without any arguments is returns helpful information, `ic| icecream_example.py:40 in foo() at 07:55:33.534`
+```python
+def foo():
+	name = input("What is your name ")
+	ic(name)
+	greeting(name)
+	if 1 > 2:
+		name = input("What is your name ")
+		ic(name)
+		greeting(name)
+		ic()
+	else:
+		name = input("What is your name else ")
+		ic(name)
+		ic(greeting(name))
+		ic()
+foo()
+```
+- outcome
+```bash
+What is your name Sam
+ic| name: 'Sam'
+What is your name else Still Sam
+ic| name: 'Still Sam'
+ic| greeting(name): 'Hello Still Sam'
+ic| icecream_example.py:40 in foo() at 08:01:30.870
+```
+
