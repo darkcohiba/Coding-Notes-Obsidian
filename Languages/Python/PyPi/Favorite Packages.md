@@ -21,5 +21,6 @@ tags:
 | Beautiful Soup   | Web Scraping    | [[Beautiful Soup]]                                                                   |         |
 | Typer            | CLI             | [Typer](https://typer.tiangolo.com/)                                                 | #CLI    |
 | Pygame           | Games           | [[Pygame]]                                                                           |         |
-| Ice Cream        | Debugging/Print | [[Icecream]]                                                                                     |         |
+| Ice Cream        | Debugging/Print | [[Icecream]]                                                                         |         |
+| TKinter          | GUI             | [[Tkinter]]                                                                          |         |
 
