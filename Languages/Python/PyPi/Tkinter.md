@@ -15,11 +15,14 @@ from tkinter import *
 
 ## Window
 - First we need to up our window, we need our window before we can place widgets, text or images on it.
+- We need to keep our window open with the window.mainloop() function
 ```python
 #Creating a new window and configurations
 window = Tk()
 window.title("Widget Examples")
 window.minsize(width=500, height=500)
+
+window.mainloop()
 ```
 
 ## Widgets
@@ -58,7 +61,6 @@ entry.insert(END, string="Some text to begin with.")
 # Gets text in entry
 print(entry.get())
 # puts the entry onto the window
-entry.pack()
 ```
 
 ### Text
@@ -72,7 +74,6 @@ text.focus()
 text.insert(END, "Example of multi-line text entry.")
 #Get's current value in textbox at line 1, character 0
 print(text.get("1.0", END))
-text.pack()
 ```
 ### Spinbox
 - A spinbox is a number field that goes from the `from_` value to the `to` value. 
@@ -83,7 +84,6 @@ def spinbox_used():
     #gets the current value in spinbox.
     print(spinbox.get())
 spinbox = Spinbox(from_=0, to=10, width=5, command=spinbox_used)
-spinbox.pack()
 ```
 - Display
 ![[Screenshot 2023-11-05 at 7.28.14 PM.png]]
@@ -96,16 +96,13 @@ spinbox.pack()
 def scale_used(value):
     print(value)
 scale = Scale(from_=0, to=100, command=scale_used)
-scale.pack()
 ```
 - Display
 ![[Screenshot 2023-11-05 at 7.28.07 PM.png]]
 ### Check Button
-- 
-
+- Check button is useful tool for getting the user input
+- To properly use the check button widget we need to establish a variable state and a command function to use the variable.
 ```python
-
-
 #Checkbutton
 def checkbutton_used():
     #Prints 1 if On button checked, otherwise 0.
@@ -114,8 +111,11 @@ def checkbutton_used():
 checked_state = IntVar()
 checkbutton = Checkbutton(text="Is On?", variable=checked_state, command=checkbutton_used)
 checked_state.get()
-checkbutton.pack()
+```
 
+### Radio Button
+- Raido button is a useful tool to give a user multiple options that the user can only select one of
+```python
 #Radiobutton
 def radio_used():
     print(radio_state.get())
@@ -123,8 +123,16 @@ def radio_used():
 radio_state = IntVar()
 radiobutton1 = Radiobutton(text="Option1", value=1, variable=radio_state, command=radio_used)
 radiobutton2 = Radiobutton(text="Option2", value=2, variable=radio_state, command=radio_used)
-radiobutton1.pack()
-radiobutton2.pack()
+```
+
+### Listbox
+- A list 
+```python
+
+
+
+
+
 
 
 #Listbox
@@ -138,7 +146,7 @@ for item in fruits:
     listbox.insert(fruits.index(item), item)
 listbox.bind("<<ListboxSelect>>", listbox_used)
 listbox.pack()
-window.mainloop()
+
 
 
 ```
