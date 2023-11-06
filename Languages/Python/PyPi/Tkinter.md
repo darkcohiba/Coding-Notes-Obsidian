@@ -101,6 +101,7 @@ scale.pack()
 - Display
 ![[Screenshot 2023-11-05 at 7.28.07 PM.png]]
 ### Check Button
+- 
 
 ```python
 
