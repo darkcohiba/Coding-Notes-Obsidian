@@ -75,7 +75,8 @@ text.insert(END, "Example of multi-line text entry.")
 #Get's current value in textbox at line 1, character 0
 print(text.get("1.0", END))
 ```
-### Spinbox
+
+### [Spinbox](https://docs.python.org/3/library/tkinter.ttk.html?highlight=listbox#spinbox)
 - A spinbox is a number field that goes from the `from_` value to the `to` value. 
 - We use a function attached to the command to get the value of the widget
 ```python
@@ -126,15 +127,8 @@ radiobutton2 = Radiobutton(text="Option2", value=2, variable=radio_state, comman
 ```
 
 ### Listbox
-- A list 
+- A list of inputs that the user can select from
 ```python
-
-
-
-
-
-
-
 #Listbox
 def listbox_used(event):
     # Gets current selection from listbox
@@ -146,7 +140,5 @@ for item in fruits:
     listbox.insert(fruits.index(item), item)
 listbox.bind("<<ListboxSelect>>", listbox_used)
 listbox.pack()
-
-
-
 ```
+- output

@@ -23,4 +23,5 @@ tags:
 | Pygame           | Games           | [[Pygame]]                                                                           |         |
 | Ice Cream        | Debugging/Print | [[Icecream]]                                                                         |         |
 | TKinter          | GUI             | [[Tkinter]]                                                                          |         |
+| Pandas           | CSV                |    [[Panda]]                                                                                  |         |
 

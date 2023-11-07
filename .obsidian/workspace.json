@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/PyPi/Tkinter.md",
+                "file": "misc/Skribbl Word List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/PyPi/Tkinter.md",
+                "file": "misc/Skribbl Word List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/PyPi/Tkinter.md",
+                "file": "misc/Skribbl Word List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/PyPi/Tkinter.md"
+                "file": "misc/Skribbl Word List.md"
               }
             }
           },
@@ -159,10 +159,13 @@
   },
   "active": "dbc6e6bd568d7d70",
   "lastOpenFiles": [
+    "Languages/Python/PyPi/Tkinter.md",
+    "misc/Skribbl Word List.md",
+    "Untitled.md",
+    "Languages/Python/PyPi/Panda.md",
+    "Languages/Python/PyPi/Favorite Packages.md",
     "misc/Images/Screenshot 2023-11-05 at 7.28.07 PM.png",
     "misc/Images/Screenshot 2023-11-05 at 7.28.14 PM.png",
-    "Languages/Python/PyPi/Tkinter.md",
-    "Languages/Python/PyPi/Favorite Packages.md",
     "Languages/Python/Python Summary.md",
     "Languages/Python/PyPi/Pygame.md",
     "Languages/Python/PyPi/Rich.md",
@@ -188,8 +191,6 @@
     "Languages/Python/String Methods/istitle().md",
     "Languages/Python/String Methods/islower().md",
     "Languages/Python/String Methods/isdigit().md",
-    "Languages/Python/String Methods/isdecimal().md",
-    "Languages/Python/String Methods/isalpha().md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
