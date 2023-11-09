@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6a76fda66449688",
+        "id": "f955d419cbcbac41",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc6e6bd568d7d70",
+            "id": "1e81dc2200d538f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Skribbl Word List.md",
+                "file": "Languages/CSS - Cascading Style Sheets/Tailwind.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/Skribbl Word List.md",
+                "file": "Languages/CSS - Cascading Style Sheets/Tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/Skribbl Word List.md",
+                "file": "Languages/CSS - Cascading Style Sheets/Tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Skribbl Word List.md"
+                "file": "Languages/CSS - Cascading Style Sheets/Tailwind.md"
               }
             }
           },
@@ -157,25 +157,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbc6e6bd568d7d70",
+  "active": "1e81dc2200d538f8",
   "lastOpenFiles": [
-    "Languages/Python/PyPi/Tkinter.md",
+    "Languages/Python/PyPi/Inquirer.md",
+    "Languages/CSS - Cascading Style Sheets/Tailwind.md",
+    "Languages/Python/PyPi/Beautiful Soup.md",
+    "Languages/Python/PyPi/Pandas.md",
+    "Languages/Python/PyPi/Rich.md",
     "misc/Skribbl Word List.md",
+    "Languages/Python/PyPi/Tkinter.md",
     "Untitled.md",
-    "Languages/Python/PyPi/Panda.md",
     "Languages/Python/PyPi/Favorite Packages.md",
     "misc/Images/Screenshot 2023-11-05 at 7.28.07 PM.png",
     "misc/Images/Screenshot 2023-11-05 at 7.28.14 PM.png",
     "Languages/Python/Python Summary.md",
     "Languages/Python/PyPi/Pygame.md",
-    "Languages/Python/PyPi/Rich.md",
-    "Languages/Python/PyPi/Inquirer.md",
     "Data Structures/Array.md",
     "Languages/Python/PyPi/Icecream.md",
     "Languages/Python/PyPi/Click.md",
     "Languages/Python/PyPi/Fire.md",
     "Frameworks/React/Hooks/useState Hook.md",
-    "Languages/Python/PyPi/Beautiful Soup.md",
     "Code Summary.md",
     "misc/Images/Pasted image 20231103104057.png",
     "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
@@ -190,7 +191,6 @@
     "Templates/Method Template.md",
     "Languages/Python/String Methods/istitle().md",
     "Languages/Python/String Methods/islower().md",
-    "Languages/Python/String Methods/isdigit().md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
