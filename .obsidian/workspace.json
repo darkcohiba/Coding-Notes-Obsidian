@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/splitlines().md",
+                "file": "Languages/Python/Python Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/splitlines().md",
+                "file": "Languages/Python/Python Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/splitlines().md",
+                "file": "Languages/Python/Python Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/splitlines().md"
+                "file": "Languages/Python/Python Summary.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "c6433590bdb1c711",
   "lastOpenFiles": [
+    "Languages/Python/String Methods/startswith().md",
     "Languages/Python/String Methods/splitlines().md",
     "Languages/Python/String Methods/split().md",
     "Languages/Python/String Methods/replace().md",
@@ -190,7 +191,6 @@
     "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
     "misc/Images",
     "misc/Images/Pasted image 20231103124937.png",
-    "Languages/Javascript/NPM/Favorite Packages.md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
