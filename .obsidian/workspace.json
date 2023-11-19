@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/replace().md",
+                "file": "Languages/Python/String Methods/splitlines().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/replace().md",
+                "file": "Languages/Python/String Methods/splitlines().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/replace().md",
+                "file": "Languages/Python/String Methods/splitlines().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/replace().md"
+                "file": "Languages/Python/String Methods/splitlines().md"
               }
             }
           },
@@ -157,10 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "c6433590bdb1c711",
   "lastOpenFiles": [
-    "Languages/Python/String Methods/lower().md",
+    "Languages/Python/String Methods/splitlines().md",
+    "Languages/Python/String Methods/split().md",
     "Languages/Python/String Methods/replace().md",
+    "Languages/Python/String Methods/lower().md",
     "Languages/Python/String Methods/join().md",
     "Languages/Python/String Methods/isupper().md",
     "Languages/Javascript/Javascript Summary.md",
@@ -189,8 +191,6 @@
     "misc/Images",
     "misc/Images/Pasted image 20231103124937.png",
     "Languages/Javascript/NPM/Favorite Packages.md",
-    "Languages/Python/PyPi/Typer.md",
-    "Languages/Python/Untitled.md",
     "Languages/CSS - Cascading Style Sheets",
     "Untitled.canvas",
     "Frameworks",
