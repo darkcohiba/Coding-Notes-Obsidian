@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/String Methods/translate().md",
+                "file": "Code Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/String Methods/translate().md",
+                "file": "Code Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/String Methods/translate().md",
+                "file": "Code Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/String Methods/translate().md"
+                "file": "Code Summary.md"
               }
             }
           },
@@ -157,12 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0efc6ce31e42fed7",
+  "active": "c6433590bdb1c711",
   "lastOpenFiles": [
-    "Languages/Python/String Methods/title().md",
-    "Languages/Python/String Methods/translate().md",
-    "Languages/Python/String Methods/swapcase().md",
     "Languages/Python/Python Summary.md",
+    "Languages/Python/String Methods/upper().md",
+    "Languages/Python/String Methods/translate().md",
+    "Languages/Python/String Methods/title().md",
+    "Languages/Python/String Methods/swapcase().md",
     "Languages/Python/String Methods/startswith().md",
     "Languages/Python/String Methods/splitlines().md",
     "Languages/Python/String Methods/split().md",
@@ -186,7 +187,6 @@
     "misc/Images/Screenshot 2023-11-05 at 7.28.14 PM.png",
     "Languages/Python/PyPi/Pygame.md",
     "Data Structures/Array.md",
-    "Languages/Python/PyPi/Icecream.md",
     "misc/Images/Pasted image 20231103104057.png",
     "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
     "misc/Images",

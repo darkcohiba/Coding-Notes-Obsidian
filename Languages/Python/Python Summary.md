@@ -40,4 +40,4 @@ SORT file.name asc
 - [ ] Start Array Methods
 - [ ] Finish Array Methods
 - [x] Start String Methods
-- [ ] Finish String Methods
+- [x] Finish String Methods
