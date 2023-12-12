@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Data Structures/Algorithms/Algo Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Data Structures/Algorithms/Algo Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Summary.md",
+                "file": "Data Structures/Algorithms/Algo Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Summary.md"
+                "file": "Data Structures/Algorithms/Algo Summary.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "c6433590bdb1c711",
   "lastOpenFiles": [
+    "Code Summary.md",
+    "Data Structures/Algorithms/Algo Summary.md",
+    "Data Structures/Algorithms",
     "Languages/Python/Python Summary.md",
     "Languages/Python/String Methods/upper().md",
     "Languages/Python/String Methods/translate().md",
@@ -173,7 +176,6 @@
     "Languages/Python/String Methods/isupper().md",
     "Languages/Javascript/Javascript Summary.md",
     "Languages/CSS - Cascading Style Sheets/Colors.md",
-    "Code Summary.md",
     "Languages/CSS - Cascading Style Sheets/Tailwind.md",
     "Languages/Python/PyPi/Inquirer.md",
     "Languages/Python/PyPi/Beautiful Soup.md",
@@ -186,7 +188,6 @@
     "misc/Images/Screenshot 2023-11-05 at 7.28.07 PM.png",
     "misc/Images/Screenshot 2023-11-05 at 7.28.14 PM.png",
     "Languages/Python/PyPi/Pygame.md",
-    "Data Structures/Array.md",
     "misc/Images/Pasted image 20231103104057.png",
     "misc/Images/Screenshot 2023-11-03 at 11.54.26 AM.png",
     "misc/Images",
@@ -200,7 +201,6 @@
     "Templates",
     "Frameworks/React/Tools/State Management",
     "Frameworks/React/Tools",
-    "API",
     "Untitled 1.canvas"
   ]
 }
