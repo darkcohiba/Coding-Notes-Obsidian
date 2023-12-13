@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bcba9beb4e889d3e",
+        "id": "0635b7184cf8b7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6433590bdb1c711",
+            "id": "183b23bcaced487d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Algorithms/Algo Summary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Algorithms/Algo Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Algorithms/Algo Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structures/Algorithms/Algo Summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6433590bdb1c711",
+  "active": "183b23bcaced487d",
   "lastOpenFiles": [
-    "Code Summary.md",
     "Data Structures/Algorithms/Algo Summary.md",
+    "Code Summary.md",
     "Data Structures/Algorithms",
     "Languages/Python/Python Summary.md",
     "Languages/Python/String Methods/upper().md",
