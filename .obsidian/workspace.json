@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0635b7184cf8b7b5",
+        "id": "5dcb813ebb607ab4",
         "type": "tabs",
         "children": [
           {
-            "id": "183b23bcaced487d",
+            "id": "ca5d62a8d7e97b34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Machine Learning A-Z AI, Python & R.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning A-Z AI, Python & R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning A-Z AI, Python & R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Machine Learning A-Z AI, Python & R.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,12 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "183b23bcaced487d",
+  "active": "ca5d62a8d7e97b34",
   "lastOpenFiles": [
-    "Pasted image 20240306091814.png",
-    "Pasted image 20240306091454.png",
+    "Machine Learning/Udemy Course Machine Learning A-Z.md",
+    "misc/Images/Pasted image 20240306091454.png",
+    "misc/Images/Pasted image 20240306091814.png",
     "Code Summary.md",
-    "Machine Learning/Machine Learning A-Z AI, Python & R.md",
     "Untitled.md",
     "Machine Learning",
     "Data Structures/String.md",
